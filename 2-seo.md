@@ -2,6 +2,11 @@
 
 [How to find the best keywords](https://www.web.com/blog/how-to-find-the-best-keywords/)
 
+Useful Links
+
+- [Capitalize My Title](https://capitalizemytitle.com/)
+- [WordCounter.net](https://wordcounter.net/): for SEO title and description length
+
 ## Keyword research
 
 The process of discovering and analyzing the words and phrases people type into search engines. Keywords help you discover what your audience is looking for, tailor your content to meet their needs, and improve your website’s ranking in search results.

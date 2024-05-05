@@ -1,6 +1,6 @@
 # website performance metrics
 
-> https://www.web.com/blog/website-performance-metrics/
+[Website performance metrics](https://www.web.com/blog/website-performance-metrics/)
 
 Website performance metrics provide critical insights into how well your site is functioning and where improvements are needed. These metrics are the foundation of website optimization, ensuring a seamless and satisfying user experience for your visitors
 
@@ -15,9 +15,9 @@ Reasons to monitor website performance metrics:
 7. Allows data-driven decision-making. Website performance metrics provide data-driven insights. By analyzing these metrics, you can make informed decisions about where to invest resources for improvements
 8.
 
-7 common causes of a slow website
+### 7 common causes of a slow website
 
-> https://www.web.com/blog/ecommerce-site-too-slow/
+[Causes of a slow website](https://www.web.com/blog/ecommerce-site-too-slow/)
 
 1. Large image file sizes
 2. Unoptimized code
@@ -40,8 +40,6 @@ Tools to help diagnose a slow website
 
 ### Load time
 
-> START COPY-PASTE
-
 Load time is the speed at which your website’s pages load when a visitor clicks a link or enters your URL.
 
 Faster loading times result in a more responsive and efficient user experience. Beyond enhancing user satisfaction, speedy load times also have a positive impact on search engine rankings.
@@ -62,7 +60,7 @@ The size of your web pages matters, especially in a fast-paced world. Page size 
 
 It’s a significant factor in determining how quickly a web page loads. Large pages with excessive or unoptimized assets can lead to longer load times, which may frustrate visitors and result in a higher bounce rate.
 
-> NOTE: Large files (images, CSS, JavaScript) that need to be downloaded for the page will result in higher data usage for smartphone and tablet users - that will drive people away
+**NOTE**: Large files (images, CSS, JavaScript) that need to be downloaded for the page will result in higher data usage for smartphone and tablet users - that will drive people away
 
 ### Number of requests
 
@@ -94,8 +92,6 @@ These metrics focus on how well a website performs on mobile devices, including 
 - usability on touchscreens
 - overall responsiveness
 
-> END COPY-PASTE
-
 ## How to measure your website’s performance metrics (tips)
 
 Factors like seasonal trends, marketing campaigns, and website updates can all impact performance metrics
@@ -104,9 +100,6 @@ Factors like seasonal trends, marketing campaigns, and website updates can all i
 2. Benchmark your website’s performance against industry standards or your own historical data. Are your metrics within an acceptable range, or do they fall below expectations? Benchmarking provides a valuable reference point for evaluating your site’s performance
 3. List down all the areas where your website’s performance falls short. If the bounce rate is high, it might suggest that visitors are encountering usability or content issues. Slow load times could be related to specific pages or elements that need attention
 4. Prioritize the problems you’ve identified based on their potential impact on user experience and business goals
-
-> ...which issues need immediate action?
-
 5. Start by establishing clear and measurable goals for improvement based on your analysis: reduce page load time by 15% or decrease the bounce rate by 10%
 6. After implementing changes, conduct tests to ensure they have the desired impact
 7. Be sure to continuously analyze and refine your strategies
@@ -122,7 +115,7 @@ It offers data on page views, bounce rates, user demographics, and more and it h
 - track conversions
 - identify areas for improvement
 
-...set up a Google Analytics account, add a tracking code to your website, and start collecting data
+Set up a Google Analytics account, add a tracking code to your website, and start collecting data
 
 ### Pingdom
 
@@ -157,7 +150,7 @@ CDNs like Cloudflare, Amazon CloudFront, and Akamai distribute your content acro
 
 - Check the Analytics and Logs tab
 
-## website performance optimization best practices
+## Website performance optimization best practices
 
 1. Optimize images
 2. Minimize HTTP requests

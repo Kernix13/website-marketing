@@ -1,11 +1,5 @@
 # Keywords
 
-Home page:
-
-> meta name="description" - Whether you have outgrown your current `IT provider`, or it is your first time exploring the option, we want to help you
-
-title: Home - e3 Technical Solutions
-
 ## Main Keywords
 
 1. `Managed IT Services`

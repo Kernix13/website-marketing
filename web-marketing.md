@@ -4,9 +4,9 @@
 
 ## Website Marketing
 
-- [Website marketing 101: How to attract more visitors to your site](https://www.web.com/blog/website-attract-new-customers/)
+**Main Source**: [Website marketing 101: How to attract more visitors to your site](https://www.web.com/blog/website-attract-new-customers/)
 
-1. Step 1. Know your audience
+1. Step 1: Know your audience
 
 - Think about the people who are most likely to benefit from what you offer
   - What age group are they in?
@@ -16,7 +16,7 @@
 
 > How to do market research: See `1-market-research.md`
 
-2. Step 2. Implement a strong SEO strategy
+2. Step 2: Implement a strong SEO strategy
 
 > SEE `2-seo.md`
 

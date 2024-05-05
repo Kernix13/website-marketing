@@ -1,10 +1,10 @@
 # Website Marketing
 
-> Do more searches for "website marketing" | "website marketing strategy" | "website marketing metrics" | "website marketing objectives"
+> Do more searches for "_website marketing_" | "_website marketing strategy_" | "_website marketing metrics_" | "_website marketing objectives_"
 
 ## Website Marketing
 
-> Website marketing 101: How to attract more visitors to your site - **https://www.web.com/blog/website-attract-new-customers/**
+- [Website marketing 101: How to attract more visitors to your site](https://www.web.com/blog/website-attract-new-customers/)
 
 1. Step 1. Know your audience
 
@@ -14,7 +14,7 @@
   - What challenges are they facing that your website can help with?
   - Once you have a good grasp of your audience’s interests and needs, tailor your messages to speak directly to them. This could mean adjusting your website’s language to match their tone
 
-> How to do market research: SEE `1-market-research.md`
+> How to do market research: See `1-market-research.md`
 
 2. Step 2. Implement a strong SEO strategy
 

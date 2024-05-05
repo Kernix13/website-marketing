@@ -19,7 +19,7 @@ Using relevant, trending hashtags can significantly increase the visibility of y
 
 ## Tip 4: Encourage interaction with clear calls to action
 
-> No-brainer
+- No-brainer!
 
 ## Tip 5: Tailor content to match social media platforms’ formats
 
@@ -31,4 +31,4 @@ For instance, Instagram favors visually engaging content with concise captions, 
 
 Engage your audience by adopting a series-based approach to your content. Whether it’s a sequence of posts or videos, creating a series builds anticipation and encourages your audience to come back for more
 
-> YES!
+- YES! This will create the abilty for multiple internal links and you can break a large topic into smaller related articles

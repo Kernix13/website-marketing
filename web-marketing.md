@@ -6,7 +6,7 @@
 
 **Main Source**: [Website marketing 101: How to attract more visitors to your site](https://www.web.com/blog/website-attract-new-customers/)
 
-1. Step 1: Know your audience
+### 1. Step 1: Know your audience
 
 - Think about the people who are most likely to benefit from what you offer
   - What age group are they in?
@@ -16,11 +16,11 @@
 
 > How to do market research: See `1-market-research.md`
 
-2. Step 2: Implement a strong SEO strategy
+### 2. Step 2: Implement a strong SEO strategy
 
 > SEE `2-seo.md`
 
-3. Step 3. Create valuable content: You can add your keywords to the content you make
+### 3. Step 3: Create valuable content: You can add your keywords to the content you make
 
 > SEE `3-content.md`
 
@@ -30,11 +30,11 @@
 - infographics
 - Don’t underestimate the power of guest blogging - contributing to other reputable websites, you can tap into their audience, increase your exposure, and even enhance your website’s SEO through backlinks
 
-4. Enable self-service
+### 4. Step 4: Enable self-service
 
-- the ability to complete tasks online without the need for a phone call - to book appointments, request sales calls, or schedule consultations directly through your website
+- The ability to complete tasks online without the need for a phone call - to book appointments, request sales calls, or schedule consultations directly through your website
 
-5. Post on social media
+### 5. Step 5: Post on social media
 
 > SEE `4-social-meda.md`
 
@@ -43,12 +43,12 @@
   - content that adds value and encourages engagement
   - Respond to comments, participate in conversations, and even run social media-exclusive promotions or contests
 
-6. Collaborate with influencers
+### 6. Collaborate with influencers
 
 - individuals who have built a significant following on social media or blogs
 - consider partnering with influencers who have a significant following in your niche
 
-7. Add your business profile online
+### 7. Add your business profile online
 
 - include essential information most customers are looking for. Make sure these are prominently displayed _near_ the top of the home page
   - Business name
@@ -59,13 +59,13 @@
   - Brief business description
   - Make sure that your information is also accurate on your business listings
 
-8. Think visual
+### 8. Think visual
 
 - Photos and images are an important element of a website
 - be sure your product descriptions include multiple photos
 - consider the layout and placement of images on your site. They should complement your content and not overpower it
 
-9. Create a positive user experience
+### 9. Create a positive user experience
 
 - A confusing website will drive customers away instead of enticing them
   - feature a simple, intuitive navigation that’s easy to use
@@ -74,7 +74,7 @@
 
 A clear CTA guides your audience on what to do next. This step is crucial in converting your content efforts into tangible results, like increased followers, leads, or sales
 
-10. Constantly update your website
+### 10. Constantly update your website
 
 > If customers visit your website only to find ... [poor design and issues] ..., they may think your business is struggling [or unprofessional]
 
@@ -86,7 +86,7 @@ A clear CTA guides your audience on what to do next. This step is crucial in con
   - If certain pages or elements are causing issues for visitors, prioritize fixing these areas.
   - keep up with the trends and changes in web design and user expectations
 
-11. Send compelling emails
+### 11. Send compelling emails
 
 - email marketing
   - encourage web users to sign up for emails.
@@ -96,7 +96,7 @@ A clear CTA guides your audience on what to do next. This step is crucial in con
 
 > I don't think applies to your industry but here is an article worth reading: https://www.web.com/blog/reasons-business-use-email-marketing/
 
-12. Deploy paid advertising
+### 12. Deploy paid advertising
 
 - `Analyze and adapt your strategy`: Tools like Google Analytics lets you monitor various aspects of your website traffic
   - monitor various aspects of your website traffic, such as where your visitors are coming from, which pages they spend the most time on, and how they interact with your site
@@ -104,7 +104,7 @@ A clear CTA guides your audience on what to do next. This step is crucial in con
 
 > I think you said that being that your industry is very competitive, this approach was expensive.
 
-13. Step 13. Analyze and adapt your strategy
+### 13. Step 13. Analyze and adapt your strategy
 
 > test and check your site’s performance: SEE `5-web-metrics.md`
 

@@ -104,22 +104,51 @@ Incorporate these keywords into your site pages and posts, as well as social med
 
 [17 Best Managed IT Service Providers in Philadelphia](https://www.expertise.com/pa/philadelphia/managed-service-providers)
 
-1. [PCH Technologies](https://pchtechnologies.com/)
+#### Schema Markup
+
+<!--
+https://www.semrush.com/blog/schema-markup/
+https://www.bluehost.com/blog/what-is-schema-markup/
+https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data
+ -->
+
+A lot of these companies have Schema Markup (structured data) which is code added to your webpages to help search engines better understand your content.
+
+Types of Schema Markup:
+
+- Product Markup
+- Review Markup
+- Article Markup
+- Course Markup
+- Organization Markup
+- Local Business
+
+1. [PCH Technologies](https://pchtechnologies.com/) - Schema markup: `"@type":"WebPage"`
 
 - [LinkedIn](https://www.linkedin.com/company/pch-technologies/posts/?feedView=all)
+  - **Recent post subjects**: securing data | 2024 Verizon data breach investigations report | 2024 TMT boot camp | BLF Business Expo | mobile phishing scams | mobile devices passwords
 - [Facebook](https://www.facebook.com/pchtechnologies2015/)
+  - **Recent post subjects**: securing data | data security | Kaseya 365 subscription | mobile security risks | mobile device security and remote work | AI for MSPs
 - [Twitter](https://twitter.com/pchtechnologies?lang=en)
+  - **Recent post subjects**: meme | PayPal data breach | Ron Jaworski and Eagles | meme | states and TikTok ban | ransomware | WordPress security | Happy New Year
 - [YouTube](https://www.youtube.com/channel/UCp2TwXI0L0ihxd4M-Zd7Glg)
+  - **Recent video subjects**: _most recent video is 3 years old!_
 - [Blog](https://pchtechnologies.com/blog/)
+  - **Recent post titles**: NJ small business and cybersecurity | local vs national IT services | local IT services | local IT solutions | MSSP for small business in NJ
 
 2. [BetterWorld Technology](https://www.betterworldtechnology.com/)
 
 - [LinkedIn](https://www.linkedin.com/company/betterworld-tech/)
+  - Recent post subjects:
 - [Facebook](https://www.facebook.com/BetterWorldTech)
+  - Recent post subjects:
 - [Instagram](https://www.facebook.com/BetterWorldTech)
+  - Recent post subjects:
 - [Twitter](https://twitter.com/betterworldtech)
+  - Recent post subjects:
 - [Medium](https://betterworldtech.medium.com/)
 - [Blog](https://www.betterworldtechnology.com/better-blog)
+  - Recent post titles:
 
 3. [Village Helpdesk](https://villagehelpdesk.com/)
 
@@ -136,6 +165,7 @@ Incorporate these keywords into your site pages and posts, as well as social med
 - [Instagram](https://twitter.com/LibertyLTS)
 - [Twitter](https://twitter.com/LibertyLTS)
 - [YouTube](https://www.youtube.com/channel/UCYAWbJvNhS7rzzxw4VK6hTQ)
+  - Recent video subjects:
 - [Blog]()
 
 5. [DLC Technology](https://www.dlctechnology.com/)

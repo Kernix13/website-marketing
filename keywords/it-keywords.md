@@ -1,5 +1,7 @@
 # Keywords
 
+Incorporate these keywords into your site pages and posts, as well as social media posts and business profiles.
+
 ## Main Keywords
 
 1. `Managed IT Services`
@@ -93,11 +95,14 @@
 - knowledge base, local, cloud, hybrid, backup, training, consulting, software, cybersecurity, hardware, data storage, email, content mgmt, DBs, analytics, routers, switches, servers, firewalls, VMs, VPNs, proxies, end-users, VPN, wireless channel, CDNs, protocol layers
 - robotic process automation, asset monitoring alerts, CMDB (Configuration Management Database) visual maps, asset management, Incident monitoring, Device compatibility issues, Scheduled maintenance updates, Virtual CIO, VCIO services, infrastructure monitoring, tech infrastructure, Technical Solutions, medium access control (MAC), physical (PHY), and radio frequency (RF) signals,
 
-## Research other companies
+## Research other companies (Philadelphis specific)
+
+- Use the site links to see your competitors site structure and the keywords they use on their pages.
+- Use the social links to see what type of content they post and how often.
 
 ### Expertise.com Link
 
-[Best Managed IT Service Providers in Philadelphia](https://www.expertise.com/pa/philadelphia/managed-service-providers)
+[17 Best Managed IT Service Providers in Philadelphia](https://www.expertise.com/pa/philadelphia/managed-service-providers)
 
 1. [PCH Technologies](https://pchtechnologies.com/)
 
@@ -105,24 +110,115 @@
 - [Facebook](https://www.facebook.com/pchtechnologies2015/)
 - [Twitter](https://twitter.com/pchtechnologies?lang=en)
 - [YouTube](https://www.youtube.com/channel/UCp2TwXI0L0ihxd4M-Zd7Glg)
+- [Blog](https://pchtechnologies.com/blog/)
 
 2. [BetterWorld Technology](https://www.betterworldtechnology.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/betterworld-tech/)
+- [Facebook](https://www.facebook.com/BetterWorldTech)
+- [Instagram](https://www.facebook.com/BetterWorldTech)
+- [Twitter](https://twitter.com/betterworldtech)
+- [Medium](https://betterworldtech.medium.com/)
+- [Blog](https://www.betterworldtechnology.com/better-blog)
+
+3. [Village Helpdesk](https://villagehelpdesk.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/village-helpdesk/)
+- [Facebook](https://www.facebook.com/VillageHelpdesk/)
+- [Instagram](https://www.instagram.com/villagehelpdesk/)
+- [Twitter](https://twitter.com/HelpdeskVillage)
+- [Blog](https://villagehelpdesk.com/village-tech-talk/) - labeled as "News"
+
+4. [Liberty Technology Solutions](https://libertylts.com/)
+
+- [LinkedIn]()
+- [Facebook](https://www.facebook.com/libertytechnologysolutions/)
+- [Instagram](https://twitter.com/LibertyLTS)
+- [Twitter](https://twitter.com/LibertyLTS)
+- [YouTube](https://www.youtube.com/channel/UCYAWbJvNhS7rzzxw4VK6hTQ)
+- [Blog]()
+
+5. [DLC Technology](https://www.dlctechnology.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/dlctechnology/)
+- [Facebook](https://www.facebook.com/dlctechnology)
+- [Instagram](https://twitter.com/dlctechnology)
+- [Twitter](https://twitter.com/dlctechnology)
+- [Blog](https://www.dlctechnology.com/connect/blog)
+
+6. [ITDATA](https://www.itdata.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/itdata-inc/)
+- [Facebook](https://www.facebook.com/ITDATAinc)
+- [Instagram](https://www.instagram.com/itdatainc/)
+- [Blog](https://www.itdata.com/about-itdata/blog/)
+
+7. [SSD Technology Partners](https://www.sourcepass.com/managed-it-services-wilmington) - parent company link
+
+- [LinkedIn](https://www.linkedin.com/company/ssd-technology-partners/)
+
+8. [Rapport IT Services LLC](https://www.rapportit.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/rapportit/)
+- [Facebook](https://www.facebook.com/rapportit/)
+- [Instagram](https://www.linkedin.com/company/rapportit/)
+- [Twitter](https://twitter.com/RapportITS)
+
+9. [Nettology LLC](https://nettology.net/)
+
+- [LinkedIn](https://www.linkedin.com/company/nettology-llc/)
+- [Facebook](https://www.facebook.com/nettologyit)
+- [Instagram](https://www.facebook.com/nettologyit)
+- [Twitter](https://twitter.com/NettologyIT)
+- [YouTube](https://www.youtube.com/channel/UCx8bpgYIUn2F2grZF5qMI4g)
+- [Blog](https://nettology.net/blog/)
+
+10. [Bardissi Enterprises](https://www.bardissi.net/)
+
+- [LinkedIn](https://www.linkedin.com/company/bardissi-enterprises-llc/)
+- [Facebook](https://www.facebook.com/bardissiit)
+- [Twitter](https://twitter.com/bardissient)
+- [Blog](https://www.bardissi.net/blog)
+
+11. [Beringer Technology Group](https://www.beringer.net/)
+
+- [Blog](https://www.beringer.net/blog/)
+
+12. Voree IT Solutions - "Your connection is not private"
+
+13. Waypoint - no website?
+
+14. Waytek - Product sales?
+
+15. [Networx IT Solutions](https://www.networx.us/)
+
+- [Facebook](https://www.facebook.com/networxitsolutionsllc/)
+
+16. [IT Service ArchiTechs](https://www.itsatechs.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/it-service-architechs-llc/)
+- [Facebook](https://www.facebook.com/ITSA.Support)
+- [Instagram](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
+- [Twitter](https://twitter.com/itsa_tweets)
+- [YouTube](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
+- [Blog](https://www.itsatechs.com/category/blog/)
+
+17. The LLB Group, LLC - "Your connection is not private"
+
+<!-- file:///C:/Users/pc/Documents/WebDev/repos-markdown/website-marketing/keywords/it-keywords.md -->
+
+### Clutch Link
+
+[Top IT Managed Service Providers in Philadelphia](https://clutch.co/it-services/msp/philadelphia)
+
+1. []()
 
 - [LinkedIn]()
 - [Facebook]()
 - [Instagram]()
 - [Twitter]()
-- [Medium]()
-
-> file:///C:/Users/pc/Documents/WebDev/repos-markdown/website-marketing/keywords/it-keywords.md
-
-3. []()
-
-- []()
-
-### Clutch Link
-
-[Top IT Managed Service Providers in Philadelphia](https://clutch.co/it-services/msp/philadelphia)
+- [YouTube]()
+- [Blog]()
 
 ### cloudtango Link
 

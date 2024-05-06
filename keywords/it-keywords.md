@@ -256,20 +256,97 @@ Repeats from above skipped
 
 [Top 20 Managed Service Providers in Philadelphia](https://www.cloudtango.net/msp/Philadelphia)
 
-1. []()
+> Repeats skipped
 
-- [LinkedIn]()
-- [Facebook]()
-- [Instagram]()
-- [Twitter]()
-- [YouTube]()
-- [Blog]()
+1. [Verinext](https://verinext.com/)
 
-2. []()
+- [LinkedIn](https://www.linkedin.com/company/verinext/)
+- [Instagram](https://www.instagram.com/lifeatverinext/)
+- [Twitter](https://twitter.com/verinext)
+- [Blog](https://verinext.com/blog/)
 
-- [LinkedIn]()
-- [Facebook]()
-- [Instagram]()
-- [Twitter]()
-- [YouTube]()
-- [Blog]()
+2. [IT Solutions Consulting](https://www.itsolutions-inc.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/it-solutions-consulting-llc/)
+- [Facebook](https://www.facebook.com/PickITS/)
+- [Twitter](https://twitter.com/PickITS)
+- [YouTube](https://www.youtube.com/user/ITSolutionsVideo)
+- [Blog](https://www.itsolutions-inc.com/category/blog/featured)
+
+3. [Advanced Network Products](https://www.anp.net/) -> application/ld+json schema in the source
+
+- [LinkedIn](https://www.linkedin.com/company/advanced-network-products-inc/)
+- [Facebook](https://www.facebook.com/AdvancedNetworkProductsInc/)
+- [Twitter](https://twitter.com/ANPOutsourceIT)
+- [YouTube](https://www.youtube.com/channel/UCySstMpBXK9rIqUdoMaMAzw)
+- [Blog](https://www.anp.net/blog)
+
+4. [Windows Management Experts](https://windowsmanagementexperts.com/) -> application/ld+json schema
+
+- [Blog](https://windowsmanagementexperts.com/blog/)
+
+5. [CrafTech Computer Solutions](https://craftech.com/) -> application/ld+json schema in the source
+
+- [LinkedIn](https://www.linkedin.com/company/craftechcs/)
+- [Facebook](https://www.facebook.com/CrafTechCS/)
+- [Blog](https://craftech.com/blog/)
+
+6. [Rivell LLC](https://rivell.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/rivell-llc/)
+- [Facebook](https://www.facebook.com/rivell01)
+- [Instagram](https://www.instagram.com/rivell_llc/)
+- [Twitter](https://twitter.com/rivell_llc)
+- [Blog](https://rivell.com/blog/)
+
+7. [Evolve IP](https://www.evolveip.net/)
+
+- [LinkedIn](https://www.linkedin.com/company/evolve-ip/)
+- [Facebook](https://www.facebook.com/EvolveIP)
+- [Instagram](https://www.instagram.com/evolveip/)
+- [Twitter](https://twitter.com/EvolveIP)
+- [YouTube](https://www.youtube.com/user/EvolveIP)
+- [Blog](https://www.evolveip.net/blog)
+
+8. [Total Technology Resources](https://www.thetechresource.com/) -> application/ld+json schema in the source
+
+- [Facebook](https://www.facebook.com/ttrllc19116/)
+- [Twitter](https://twitter.com/TTR_LLC)
+- [Blog](https://www.thetechresource.com/blog/)
+
+9. [CompuData](https://www.compudata.com/) -> application/ld+json schema in the source
+
+- [LinkedIn](https://www.linkedin.com/company/compudata-inc/)
+- [Facebook](https://www.facebook.com/CompuDataInc/)
+- [Twitter](https://twitter.com/CompuDataInc)
+- [YouTube](https://www.youtube.com/user/CompuDataInc)
+- [Blog](https://www.compudata.com/blog/)
+
+10. [Zog, Inc.](https://www.zoginc.com/) -> application/ld+json schema
+
+- [LinkedIn](https://www.linkedin.com/company/zog-inc/)
+- [Facebook](https://www.facebook.com/zoginc/)
+- [Instagram](https://www.facebook.com/zoginc/)
+- [Blog](https://www.zoginc.com/blog)
+
+11. [Source One System Solutions](https://www.source1sys.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/source-one-system-solutions/)
+- [Blog](https://www.source1sys.com/blog-2/)
+
+12. [Cloudnexa](https://www.cloudnexa.com/) -> application/ld+json schema
+
+- [Facebook](https://www.facebook.com/profile.php?id=100063748320067)
+- [Instagram](https://twitter.com/cloudnexa)
+- [Twitter](https://twitter.com/cloudnexa)
+- [Blog](https://www.cloudnexa.com/resources/blogs/)
+
+13. [Jomar Systems](https://www.jomarsystems.com/) -> application/ld+json schema
+
+14. [Christo IT Services](https://www.christoit.com/) -> application/ld+json schema
+
+- [LinkedIn](https://www.linkedin.com/company/christo-it-services/)
+- [Facebook](https://www.facebook.com/christoit)
+- [Twitter](https://twitter.com/christoit)
+- [YouTube](https://www.youtube.com/channel/UCOEYp8P9ezYBnss_yk3YlSQ)
+- [Blog](https://blog.christoit.com/)

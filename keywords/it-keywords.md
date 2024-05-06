@@ -134,7 +134,7 @@ Types of Schema Markup:
 - [YouTube](https://www.youtube.com/channel/UCp2TwXI0L0ihxd4M-Zd7Glg)
   - **Recent video subjects**: _most recent video is 3 years old!_
 - [Blog](https://pchtechnologies.com/blog/)
-  - **Recent post titles**: NJ small business and cybersecurity | local vs national IT services | local IT services | local IT solutions | MSSP for small business in NJ
+  - **Recent post subjects**: NJ small business and cybersecurity | local vs national IT services | local IT services | local IT solutions | MSSP for small business in NJ
 
 .....................
 
@@ -150,7 +150,7 @@ Types of Schema Markup:
 - [Medium](https://betterworldtech.medium.com/)
   - **Recent article subjects**: Nashville Managed IT Services | NYC MSPs | mentioned in Real Leaders list | cybersecurity | mentioned by Clutch | benefits of using MSP
 - [Blog](https://www.betterworldtechnology.com/better-blog)
-  - **Recent post titles**: IT solutions in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | IT in Chicago | server performance | Mrch 2024 newsletter
+  - **Recent post subjects**: IT solutions in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | IT in Chicago | server performance | Mrch 2024 newsletter
 
 .....................
 
@@ -164,7 +164,7 @@ Types of Schema Markup:
 - [Twitter](https://twitter.com/HelpdeskVillage)
   - **Recent post subjects**: NuPaths collaboration | IT support | cloud license | IT support | cloud migration services | IT consulting services
 - [Blog](https://villagehelpdesk.com/village-tech-talk/) - labeled as "News"
-  - **Recent post titles**: SEC cybersecurity requirements | MS teams payment app | 2024 emerging threats | 7 tech trends | e-waste | digital decluttering
+  - **Recent post subjects**: SEC cybersecurity requirements | MS teams payment app | 2024 emerging threats | 7 tech trends | e-waste | digital decluttering
 
 .....................
 
@@ -190,26 +190,26 @@ Types of Schema Markup:
 - [Twitter](https://twitter.com/dlctechnology)
   - **Recent post subjects**: custom managed IT solutions | happy Labor Day
 - [Blog](https://www.dlctechnology.com/connect/blog)
-  - **Recent post titles**: vCIO | security auditing | AI for small business | MSP and IT support | manage change | rasomware | tech upgrade | tech problems | tech documentaries
+  - **Recent post subjects**: vCIO | security auditing | AI for small business | MSP and IT support | manage change | rasomware | tech upgrade | tech problems | tech documentaries
 
 .....................
 
-6. [ITDATA](https://www.itdata.com/)
+6. [ITDATA](https://www.itdata.com/) - Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/itdata-inc/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: non-profit event (4 X's) | job opening
 - [Facebook](https://www.facebook.com/ITDATAinc)
-  - **Recent post subjects**:
+  - **Recent post subjects**: Microsoft accessibility | Happy Thanksgiving | Happy Halloween | Go Birds | cloud-based docketing system, Milana
 - [Instagram](https://www.instagram.com/itdatainc/)
 - [Blog](https://www.itdata.com/about-itdata/blog/)
-  - **Recent post titles**:
+  - **Recent post subjects**: office 365 | collaboration from 2020
 
 .....................
 
 7. [SSD Technology Partners](https://www.sourcepass.com/managed-it-services-wilmington) - parent company link
 
 - [LinkedIn](https://www.linkedin.com/company/ssd-technology-partners/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: follow Sourcepass | hiring | follow Sourcepass - no more posts
 
 .....................
 

@@ -205,11 +205,56 @@ Incorporate these keywords into your site pages and posts, as well as social med
 
 17. The LLB Group, LLC - "Your connection is not private"
 
-<!-- file:///C:/Users/pc/Documents/WebDev/repos-markdown/website-marketing/keywords/it-keywords.md -->
+---
 
 ### Clutch Link
 
-[Top IT Managed Service Providers in Philadelphia](https://clutch.co/it-services/msp/philadelphia)
+[Top 10 IT Managed Service Providers in Philadelphia](https://clutch.co/it-services/msp/philadelphia)
+
+Repeats from above skipped
+
+1. [\*instinctools](https://www.instinctools.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/instinctools/)
+- [Facebook](https://www.facebook.com/instinctoolslabs)
+- [Instagram](https://www.instagram.com/instinctools/)
+- [Twitter](https://twitter.com/instinctools_EE)
+- [YouTube](https://www.youtube.com/@instinctoolsglobal)
+- [Blog](https://www.instinctools.com/blog/) - labeled as "Insights"
+
+2. [Ascendant Technologies, Inc](https://ascendantusa.com/)
+
+- [Blog](https://ascendantusa.com/blog/)
+
+3. [designDATA](https://www.designdata.com/)
+
+- [Blog](https://blog.designdata.com/)
+
+4. [Exigent Technologies](https://www.exigent.net/)
+
+- [LinkedIn](https://www.linkedin.com/company/exigent-technologies/)
+- [Facebook](https://www.facebook.com/ExigentTechnologies)
+- [Instagram](https://www.youtube.com/user/exigenttechnologies)
+- [Twitter](https://twitter.com/_Exigent)
+- [YouTube](https://www.youtube.com/user/exigenttechnologies)
+- [Blog](https://www.exigent.net/blog/)
+- [TikTok](https://www.tiktok.com/@exigentmichael)
+
+5. [Charter Technology Solutions](https://charterts.com/)
+
+- [LinkedIn](https://www.linkedin.com/company/charter-technology-solutions/about/)
+- [Facebook](https://www.facebook.com/charterts/)
+- [Twitter](https://twitter.com/charterts)
+- [YouTube](https://www.youtube.com/channel/UCPp27LnjO9TIPUOiS_Ftopw)
+- [Blog](https://charterts.com/blog/)
+
+---
+
+<!-- file:///C:/Users/pc/Documents/WebDev/repos-markdown/website-marketing/keywords/it-keywords.md -->
+
+### cloudtango Link
+
+[Top 20 Managed Service Providers in Philadelphia](https://www.cloudtango.net/msp/Philadelphia)
 
 1. []()
 
@@ -220,6 +265,11 @@ Incorporate these keywords into your site pages and posts, as well as social med
 - [YouTube]()
 - [Blog]()
 
-### cloudtango Link
+2. []()
 
-[Top 20 Managed Service Providers in Philadelphia](https://www.cloudtango.net/msp/Philadelphia)
+- [LinkedIn]()
+- [Facebook]()
+- [Instagram]()
+- [Twitter]()
+- [YouTube]()
+- [Blog]()

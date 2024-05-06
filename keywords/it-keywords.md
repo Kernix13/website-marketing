@@ -180,50 +180,62 @@ Types of Schema Markup:
 
 .....................
 
-5. [DLC Technology](https://www.dlctechnology.com/)
+5. [DLC Technology](https://www.dlctechnology.com/) - Schema markup: `"@type":"WebSite"` and MANY other types
 
 - [LinkedIn](https://www.linkedin.com/company/dlctechnology/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: AI cyber attacks | text messages | data breach hack | fake verification apps | LastPass passwords | Nespresso domain | messenger apps | ransomware | 2FA | remote attacks | credit card skimmer
 - [Facebook](https://www.facebook.com/dlctechnology)
-  - **Recent post subjects**:
+  - **Recent post subjects**: custom managed IT solutions | AI cyber attacks | ..._repeat of LinkedIn_
 - [Instagram](https://twitter.com/dlctechnology)
 - [Twitter](https://twitter.com/dlctechnology)
-  - **Recent post subjects**:
+  - **Recent post subjects**: custom managed IT solutions | happy Labor Day
 - [Blog](https://www.dlctechnology.com/connect/blog)
-  - **Recent post titles**:
+  - **Recent post titles**: vCIO | security auditing | AI for small business | MSP and IT support | manage change | rasomware | tech upgrade | tech problems | tech documentaries
 
 .....................
 
 6. [ITDATA](https://www.itdata.com/)
 
 - [LinkedIn](https://www.linkedin.com/company/itdata-inc/)
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/ITDATAinc)
+  - **Recent post subjects**:
 - [Instagram](https://www.instagram.com/itdatainc/)
 - [Blog](https://www.itdata.com/about-itdata/blog/)
+  - **Recent post titles**:
 
 .....................
 
 7. [SSD Technology Partners](https://www.sourcepass.com/managed-it-services-wilmington) - parent company link
 
 - [LinkedIn](https://www.linkedin.com/company/ssd-technology-partners/)
+  - **Recent post subjects**:
 
 .....................
 
 8. [Rapport IT Services LLC](https://www.rapportit.com/)
 
 - [LinkedIn](https://www.linkedin.com/company/rapportit/)
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/rapportit/)
+  - **Recent post subjects**:
 - [Instagram](https://www.linkedin.com/company/rapportit/)
 - [Twitter](https://twitter.com/RapportITS)
+  - **Recent post subjects**:
 
 9. [Nettology LLC](https://nettology.net/)
 
 - [LinkedIn](https://www.linkedin.com/company/nettology-llc/)
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/nettologyit)
+  - **Recent post subjects**:
 - [Instagram](https://www.facebook.com/nettologyit)
 - [Twitter](https://twitter.com/NettologyIT)
+  - **Recent post subjects**:
 - [YouTube](https://www.youtube.com/channel/UCx8bpgYIUn2F2grZF5qMI4g)
+  - **Recent video subjects**:
 - [Blog](https://nettology.net/blog/)
+  - **Recent post titles**:
 
 10. [Bardissi Enterprises](https://www.bardissi.net/)
 

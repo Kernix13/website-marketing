@@ -134,7 +134,6 @@ Types of Schema Markup:
 - [YouTube](https://www.youtube.com/channel/UCp2TwXI0L0ihxd4M-Zd7Glg)
   - **Recent video subjects**: _most recent video is 3 years old!_
 - [Blog](https://pchtechnologies.com/blog/)
-
   - **Recent post titles**: NJ small business and cybersecurity | local vs national IT services | local IT services | local IT solutions | MSSP for small business in NJ
 
 .....................
@@ -169,16 +168,15 @@ Types of Schema Markup:
 
 .....................
 
-4. [Liberty Technology Solutions](https://libertylts.com/)
+4. [Liberty Technology Solutions](https://libertylts.com/) - Schema markup: `"@type":"Place"` and other types
 
-- [LinkedIn]()
-  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/libertytechnologysolutions/)
+  - **Recent post subjects**: supporting the outside sales staff | online faxing service | thank you to Plasma Services Group | managed phone solution | happy 4th of july |
 - [Instagram](https://twitter.com/LibertyLTS)
 - [Twitter](https://twitter.com/LibertyLTS)
+  - **Recent post subjects**: image post | video post | debilitating hacks | insurance company ransomware | ransomware attacks | data back up | password strength
 - [YouTube](https://www.youtube.com/channel/UCYAWbJvNhS7rzzxw4VK6hTQ)
-  - Recent video subjects:
-- [Blog]()
+  - **Recent video subjects**: 1 video from 3 years ago
 
 .....................
 
@@ -187,9 +185,14 @@ Types of Schema Markup:
 - [LinkedIn](https://www.linkedin.com/company/dlctechnology/)
   - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/dlctechnology)
+  - **Recent post subjects**:
 - [Instagram](https://twitter.com/dlctechnology)
 - [Twitter](https://twitter.com/dlctechnology)
+  - **Recent post subjects**:
 - [Blog](https://www.dlctechnology.com/connect/blog)
+  - **Recent post titles**:
+
+.....................
 
 6. [ITDATA](https://www.itdata.com/)
 
@@ -198,9 +201,13 @@ Types of Schema Markup:
 - [Instagram](https://www.instagram.com/itdatainc/)
 - [Blog](https://www.itdata.com/about-itdata/blog/)
 
+.....................
+
 7. [SSD Technology Partners](https://www.sourcepass.com/managed-it-services-wilmington) - parent company link
 
 - [LinkedIn](https://www.linkedin.com/company/ssd-technology-partners/)
+
+.....................
 
 8. [Rapport IT Services LLC](https://www.rapportit.com/)
 

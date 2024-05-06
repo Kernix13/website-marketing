@@ -158,14 +158,14 @@ Types of Schema Markup:
 3. [Village Helpdesk](https://villagehelpdesk.com/) - Schema markup: `"@type":"WebPage"`
 
 - [LinkedIn](https://www.linkedin.com/company/village-helpdesk/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: NO POSTS
 - [Facebook](https://www.facebook.com/VillageHelpdesk/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: leave the world behind | leave the world behind | cybersecurity | IT costs | proactive support | IT support | cloud license | IT support | cloud migration services
 - [Instagram](https://www.instagram.com/villagehelpdesk/)
 - [Twitter](https://twitter.com/HelpdeskVillage)
-  - **Recent post subjects**:
+  - **Recent post subjects**: NuPaths collaboration | IT support | cloud license | IT support | cloud migration services | IT consulting services
 - [Blog](https://villagehelpdesk.com/village-tech-talk/) - labeled as "News"
-  - **Recent post titles**:
+  - **Recent post titles**: SEC cybersecurity requirements | MS teams payment app | 2024 emerging threats | 7 tech trends | e-waste | digital decluttering
 
 .....................
 

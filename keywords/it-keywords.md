@@ -134,33 +134,45 @@ Types of Schema Markup:
 - [YouTube](https://www.youtube.com/channel/UCp2TwXI0L0ihxd4M-Zd7Glg)
   - **Recent video subjects**: _most recent video is 3 years old!_
 - [Blog](https://pchtechnologies.com/blog/)
+
   - **Recent post titles**: NJ small business and cybersecurity | local vs national IT services | local IT services | local IT solutions | MSSP for small business in NJ
 
-2. [BetterWorld Technology](https://www.betterworldtechnology.com/)
+.....................
+
+2. [BetterWorld Technology](https://www.betterworldtechnology.com/) - Schema markup: `"@type":"LocalBusiness"`
 
 - [LinkedIn](https://www.linkedin.com/company/betterworld-tech/)
-  - Recent post subjects:
+  - **Recent post subjects**: cyber threats | happy earth day | IT solutions in Nashville | cybersecurity | Pax8 Academy Live speaking event | CvCISO certification | cyber attacks
 - [Facebook](https://www.facebook.com/BetterWorldTech)
-  - Recent post subjects:
-- [Instagram](https://www.facebook.com/BetterWorldTech)
-  - Recent post subjects:
+  - **Recent post subjects**: CRN’s Managed Service Provider (MSP) 500 list | IT partner in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | Please check your inbox✅ | Earth day
+- [Instagram](https://www.instagram.com/betterworld_technology/)
 - [Twitter](https://twitter.com/betterworldtech)
-  - Recent post subjects:
+  - **Recent post subjects**: IT partner in Nashville | Remote Management & Monitoring | Earth day | IT in Chicago | server performance | 2024 tech talk | cyber threats | NYC cybersecurity
 - [Medium](https://betterworldtech.medium.com/)
+  - **Recent article subjects**: Nashville Managed IT Services | NYC MSPs | mentioned in Real Leaders list | cybersecurity | mentioned by Clutch | benefits of using MSP
 - [Blog](https://www.betterworldtechnology.com/better-blog)
-  - Recent post titles:
+  - **Recent post titles**: IT solutions in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | IT in Chicago | server performance | Mrch 2024 newsletter
 
-3. [Village Helpdesk](https://villagehelpdesk.com/)
+.....................
+
+3. [Village Helpdesk](https://villagehelpdesk.com/) - Schema markup: `"@type":"WebPage"`
 
 - [LinkedIn](https://www.linkedin.com/company/village-helpdesk/)
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/VillageHelpdesk/)
+  - **Recent post subjects**:
 - [Instagram](https://www.instagram.com/villagehelpdesk/)
 - [Twitter](https://twitter.com/HelpdeskVillage)
+  - **Recent post subjects**:
 - [Blog](https://villagehelpdesk.com/village-tech-talk/) - labeled as "News"
+  - **Recent post titles**:
+
+.....................
 
 4. [Liberty Technology Solutions](https://libertylts.com/)
 
 - [LinkedIn]()
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/libertytechnologysolutions/)
 - [Instagram](https://twitter.com/LibertyLTS)
 - [Twitter](https://twitter.com/LibertyLTS)
@@ -168,9 +180,12 @@ Types of Schema Markup:
   - Recent video subjects:
 - [Blog]()
 
+.....................
+
 5. [DLC Technology](https://www.dlctechnology.com/)
 
 - [LinkedIn](https://www.linkedin.com/company/dlctechnology/)
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/dlctechnology)
 - [Instagram](https://twitter.com/dlctechnology)
 - [Twitter](https://twitter.com/dlctechnology)

@@ -102,12 +102,6 @@ Incorporate these keywords into your site pages and posts, as well as social med
 
 ### Schema Markup
 
-<!--
-https://www.semrush.com/blog/schema-markup/
-https://www.bluehost.com/blog/what-is-schema-markup/
-https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data
- -->
-
 A lot of these companies have Schema Markup (structured data) which is code added to your webpages to help search engines better understand your content.
 
 Types of Schema Markup:
@@ -441,81 +435,111 @@ Repeats from above skipped
 
 .....................
 
-6. [Rivell LLC](https://rivell.com/)
+6. [Rivell LLC](https://rivell.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/rivell-llc/)
+  - **Recent post subjects**: Co-Managed vs. Managed managed IT services | Office 365 support services | managed IT services pricing guide | interview by by BestStartup.us | IT infrastructure management services | changing technology in the IT services industry
 - [Facebook](https://www.facebook.com/rivell01)
+  - **Recent post subjects**: CRN 2024 MSP 500 list | _repeat of LinkedIn_
 - [Instagram](https://www.instagram.com/rivell_llc/)
 - [Twitter](https://twitter.com/rivell_llc)
+  - **Recent post subjects**: _repeat of LinkedIn_
 - [Blog](https://rivell.com/blog/)
+  - **Recent post subjects**: the source articles for all of the posts above
 
 .....................
 
-7. [Evolve IP](https://www.evolveip.net/)
+7. [Evolve IP](https://www.evolveip.net/) - Schema, unsure of source
 
 - [LinkedIn](https://www.linkedin.com/company/evolve-ip/)
+  - **Recent post subjects**: phishing and ransomware | passwords and security | cloud-based IT solution | awarded the DEXe DEXpert 2024 award by ControlUp | UX monitoring | Microsoft 365 data | VMware licenses
 - [Facebook](https://www.facebook.com/EvolveIP)
+  - **Recent post subjects**: CRM team training event | other posts involving events or partnerships
 - [Instagram](https://www.instagram.com/evolveip/)
 - [Twitter](https://twitter.com/EvolveIP)
+  - **Recent post subjects**: IT infrastructure and remote workforce | remote work | DaaS virtual desktops | BaaS and Microsoft 365 | ransomware | cloud desktops | work-life balance
 - [YouTube](https://www.youtube.com/user/EvolveIP)
+  - **Recent video subjects**: 670 subscribers, 141 videos - email security | data protection | VMware | email security | webinars - long videos and shorts
 - [Blog](https://www.evolveip.net/blog)
+  - **Recent post subjects**:
 
 .....................
 
-8. [Total Technology Resources](https://www.thetechresource.com/) -> application/ld+json schema in the source
+8. [Total Technology Resources](https://www.thetechresource.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Facebook](https://www.facebook.com/ttrllc19116/)
+  - **Recent post subjects**: password day | SaaS backup solution | cloud data | client review | PCI Compliance | hardware integration | password security | data protection | 2 videos
 - [Twitter](https://twitter.com/TTR_LLC)
+  - **Recent post subjects**: security measures | network and servers | telecommunications services | security cameras | VOIP | company promos
 - [Blog](https://www.thetechresource.com/blog/)
+  - **Recent post subjects**: PCI Compliance Services | DDoS attacks | medical industry cybersecurity | top industries & cyber threats | email IT support | ransomware | phishing attacks guide | common cyber attacks
 
 .....................
 
-9. [CompuData](https://www.compudata.com/) -> application/ld+json schema in the source
+9. [CompuData](https://www.compudata.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/compudata-inc/)
+  - **Recent post subjects**: Sage Intacct's Open API integration | General Building Contractors Association (GBCA) Sponsor | podcast | DCO and Azure | case study | questions to ask a MSP | Navigating the ERP Landscape
 - [Facebook](https://www.facebook.com/CompuDataInc/)
+  - **Recent post subjects**: case study | AI and SMBs | Sage Intacct | automation solutions | case study | webinar replay | sage intacct | passwordless auth
 - [Twitter](https://twitter.com/CompuDataInc)
+  - **Recent post subjects**: philly business jounal recognition | protecting sensitive info | what to look for in a MSP | data breaches and password security
 - [YouTube](https://www.youtube.com/user/CompuDataInc)
+  - **Recent video subjects**: 50 subscribers, 100 videos - many sage intacct videos | webinar replay | year end audit adjustments |
 - [Blog](https://www.compudata.com/blog/)
+  - **Recent post subjects**: the source for all of the above
 
 .....................
 
-10. [Zog, Inc.](https://www.zoginc.com/) -> application/ld+json schema
+10. [Zog, Inc.](https://www.zoginc.com/) - Schema, unsure of source
 
 - [LinkedIn](https://www.linkedin.com/company/zog-inc/)
+  - **Recent post subjects**: vulnerability scanning | email scam | cybersecurity to-do list | externsions terms of service | updates | cloud computing | security system and firewalls & hackers
 - [Facebook](https://www.facebook.com/zoginc/)
+  - **Recent post subjects**: _repeat of LinkedIn_
 - [Instagram](https://www.facebook.com/zoginc/)
 - [Blog](https://www.zoginc.com/blog)
+  - **Recent post subjects**: many guides | philly cybersecurity
 
 .....................
 
-11. [Source One System Solutions](https://www.source1sys.com/)
+11. [Source One System Solutions](https://www.source1sys.com/) - NO SCHEMA
 
 - [LinkedIn](https://www.linkedin.com/company/source-one-system-solutions/)
+  - **Recent post subjects**: no posts
 - [Blog](https://www.source1sys.com/blog-2/)
+  - **Recent post subjects**: last post 2021
 
 .....................
 
-12. [Cloudnexa](https://www.cloudnexa.com/) -> application/ld+json schema
+12. [Cloudnexa](https://www.cloudnexa.com/) JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Facebook](https://www.facebook.com/profile.php?id=100063748320067)
+  - **Recent post subjects**: last post 2021
 - [Instagram](https://twitter.com/cloudnexa)
 - [Twitter](https://twitter.com/cloudnexa)
+  - **Recent post subjects**: AI & AWS | AWS Utah user group | security and health tech | machine learning | nClouds | NIST cybersecurity | AWS control tower
 - [Blog](https://www.cloudnexa.com/resources/blogs/)
+  - **Recent post subjects**: source for twitter posts
 
 .....................
 
-13. [Jomar Systems](https://www.jomarsystems.com/) -> application/ld+json schema
+13. [Jomar Systems](https://www.jomarsystems.com/) - Microdata Schema markup
 
 .....................
 
-14. [Christo IT Services](https://www.christoit.com/) -> application/ld+json schema
+14. [Christo IT Services](https://www.christoit.com/) - Schema, unsure of source
 
 - [LinkedIn](https://www.linkedin.com/company/christo-it-services/)
+  - **Recent post subjects**: top tech tools for law firms | client review | Clio | Computer Security Day | cybersecurity | meet the team | webinar | Philly managed IT support
 - [Facebook](https://www.facebook.com/christoit)
+  - **Recent post subjects**: event video | clothing drive | dark web | internet security tips | vulnerability scan | clothing drive | protect company inbox | email phishing schemes
 - [Twitter](https://twitter.com/christoit)
+  - **Recent post subjects**: event video | dark web | online identity | vulnerability scan | cybersecurity plan
 - [YouTube](https://www.youtube.com/channel/UCOEYp8P9ezYBnss_yk3YlSQ)
+  - **Recent video subjects**: 2 subscribers, 29 videos - open house | core values | cybersecurity | lan deployment | outlook | self promos
 - [Blog](https://blog.christoit.com/)
+  - **Recent post subjects**:
 
 <!--
 - next research how to get social media post statistics
@@ -524,4 +548,13 @@ Repeats from above skipped
   - seo positions,
   - content marketing positions,
   - website marketing positions
+ -->
+
+<!--
+https://www.semrush.com/blog/schema-markup/
+- json-ld: @type
+- microdata: itemscope itemtype="" itemprop=""
+- RDFa: vocab="" typeof="" property=""
+https://www.bluehost.com/blog/what-is-schema-markup/
+https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data
  -->

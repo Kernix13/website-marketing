@@ -206,22 +206,22 @@ Types of Schema Markup:
 
 .....................
 
-7. [SSD Technology Partners](https://www.sourcepass.com/managed-it-services-wilmington) - parent company link
+7. [SSD Technology Partners](https://www.sourcepass.com/managed-it-services-wilmington) - parent company link - no Schema
 
 - [LinkedIn](https://www.linkedin.com/company/ssd-technology-partners/)
   - **Recent post subjects**: follow Sourcepass | hiring | follow Sourcepass - no more posts
 
 .....................
 
-8. [Rapport IT Services LLC](https://www.rapportit.com/)
+8. [Rapport IT Services LLC](https://www.rapportit.com/) - Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/rapportit/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: developer debugging | datafication | tech innovation | Cybersecurity Essentials | computer shortcut keys
 - [Facebook](https://www.facebook.com/rapportit/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: same as LinkedIn
 - [Instagram](https://www.linkedin.com/company/rapportit/)
 - [Twitter](https://twitter.com/RapportITS)
-  - **Recent post subjects**:
+  - **Recent post subjects**: _Dead account_
 
 9. [Nettology LLC](https://nettology.net/)
 

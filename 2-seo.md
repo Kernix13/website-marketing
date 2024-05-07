@@ -83,7 +83,7 @@ Make your website as search-engine-friendly as possible and have UI/UX
 
 1. **SEO specialist**: assesses a company's web presence to identify areas to improve search engine optimization. A specialist may work only on a company's website copy or provide more comprehensive service, covering blog posts and linking practices with the company's presence on social media, video sites and other digital media
 2. Copywriter
-3. **Social media manager**: handles the social media presence of one or more companies. The social media manager builds a company's social media following, using the accounts to complete other goals, including selling products, raising brand awareness or driving traffic to the company's website. Social media often works alongside SEO in modern marketing plans, and embedded social media posts may enhance the optimization of company pages
+3. **Social media manager**: see `social-media.md`
 4. Digital marketer (ads)
 5. Account manager: SEO for clients
 6. Marketing consultant

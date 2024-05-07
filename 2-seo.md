@@ -77,6 +77,29 @@ Make your website as search-engine-friendly as possible and have UI/UX
 
 - Google Search Console: offers insights into your website’s organic search performance. It shows you how often your site appears in search results, which keywords trigger these impressions, and what your average position is
 
+## SEO Job Titles
+
+[10 SEO Careers: Paths and Requirements](https://www.indeed.com/career-advice/finding-a-job/seo-careers)
+
+1. **SEO specialist**: assesses a company's web presence to identify areas to improve search engine optimization. A specialist may work only on a company's website copy or provide more comprehensive service, covering blog posts and linking practices with the company's presence on social media, video sites and other digital media
+2. Copywriter
+3. **Social media manager**: handles the social media presence of one or more companies. The social media manager builds a company's social media following, using the accounts to complete other goals, including selling products, raising brand awareness or driving traffic to the company's website. Social media often works alongside SEO in modern marketing plans, and embedded social media posts may enhance the optimization of company pages
+4. Digital marketer (ads)
+5. Account manager: SEO for clients
+6. Marketing consultant
+7. Marketing manager
+8. SEO manager
+9. **Web developer**: creates websites for companies. The web developer may also create copy for the sites they develop, or the client may provide copy added to the developer's code. Creating a site using SEO best practices allows the site and its pages to rank more highly and can increase the value of the ultimate design
+10. Entrepreneur
+
+### Other titles:
+
+- **SEO Analyst**: An entry-level role, SEO Analysts focus on gathering and analyzing data from websites to improve search rankings. They often assist with keyword research, monitor performance metrics, and provide insights to inform SEO strategies
+- **SEO consultant**: helps clients analyze, strategize, and deploy SEO best practices. As a consultant, you may work on a long-term basis with clients, or you might provide services for a shorter period or a specific objective
+- **SEO strategist** : responsible for the overall SEO strategy that a company employs. This position could include researching keywords, optimizing content, or aspects of technical SEO. An SEO strategist is a catch-all title that often includes many different types of optimization. A similar role would be SEO manager
+- **Technical SEO specialist**: optimizes a website for search engines, which means making the website as functional as possible. For example, a tech specialist will make sure that all website links are working, the website is secure and optimized for speed, and ensure the XML sitemap is functioning.
+- **SEO content writer**: create optimized content for websites. Optimized content includes carefully selected keywords used naturally in well-written articles, along with best practices for formatting and outlining the content
+
 ....................
 
 > Look into Google Search API: https://www.searchapi.io/docs/google-autocomplete

@@ -21,26 +21,26 @@ https://www.web.com/blog/how-to-do-market-research/
 ## Market research methods
 
 - Surveys
-- `Interviews`: in-depth, one-on-one conversations with individuals or groups to gain a deeper understanding of their thoughts, experiences, and perspectives
+- **Interviews**: in-depth, one-on-one conversations with individuals or groups to gain a deeper understanding of their thoughts, experiences, and perspectives
 - Focus group discussions
 - Observational research
 - Experiments:
-- `Secondary data analysis`: analyze existing data sources such as industry reports, government statistics, or historical sales data to gather insights
-- `Online surveys`: Surveys conducted over the internet, often through email or web-based forms, are cost-effective and can reach a broad audience
-- `Phone surveys`: Researchers collect data by conducting surveys over the phone, allowing for personalized interactions with participants
+- **Secondary data analysis**: analyze existing data sources such as industry reports, government statistics, or historical sales data to gather insights
+- **Online surveys**: Surveys conducted over the internet, often through email or web-based forms, are cost-effective and can reach a broad audience
+- **Phone surveys**: Researchers collect data by conducting surveys over the phone, allowing for personalized interactions with participants
 - Mail surveys
 - In-depth interviews
-- `Online reviews and social media analysis`: Monitoring online reviews, comments, and social media discussions to gather customer feedback and sentiment analysis
+- **Online reviews and social media analysis**: Monitoring online reviews, comments, and social media discussions to gather customer feedback and sentiment analysis
 - Usability testing
-- `Ethnographic research`: immerse yourself in the target audience’s environment to understand their culture, behavior, and preferences
+- **Ethnographic research**: immerse yourself in the target audience’s environment to understand their culture, behavior, and preferences
 - Content analysis - ?
-- `Customer/client surveys`: feedback directly from customers about their experiences with a product or service
-- `Market segmentation analysis`: Dividing the market into distinct segments based on shared characteristics and analyzing each segment’s needs and preferences
-- `Competitor analysis`: Examining competitors’ strategies, products, and customer feedback to gain insights into market dynamics
+- **Customer/client surveys**: feedback directly from customers about their experiences with a product or service
+- **Market segmentation analysis**: Dividing the market into distinct segments based on shared characteristics and analyzing each segment’s needs and preferences
+- **Competitor analysis**: Examining competitors’ strategies, products, and customer feedback to gain insights into market dynamics
 - Retail audits
-- `Big data analysis`: Analyzing large volumes of data, often using advanced analytics and machine learning techniques, to identify trends and patterns
-- `A/B testing`
-- `Customer journey mapping`: Visualizing and analyzing the various touchpoints and interactions a customer has with a brand to improve the overall customer experience
+- **Big data analysis**: Analyzing large volumes of data, often using advanced analytics and machine learning techniques, to identify trends and patterns
+- **A/B testing**
+- **Customer journey mapping**: Visualizing and analyzing the various touchpoints and interactions a customer has with a brand to improve the overall customer experience
 
 ### Understand the target audience
 

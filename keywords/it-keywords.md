@@ -223,19 +223,23 @@ Types of Schema Markup:
 - [Twitter](https://twitter.com/RapportITS)
   - **Recent post subjects**: _Dead account_
 
-9. [Nettology LLC](https://nettology.net/)
+.....................
+
+9. [Nettology LLC](https://nettology.net/) - Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/nettology-llc/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: cloud and AWS Migration | cyber defenses with NIST compliance | review | cybersecurity mistakes | Network Move & Site Setup | outsourcing IT services | Firewall Assessment & Installation service
 - [Facebook](https://www.facebook.com/nettologyit)
-  - **Recent post subjects**:
+  - **Recent post subjects**: cybersecurity mistakes | outsourcing IT services | review | Network Move & Site Setup | cloud with seamless AWS Migration | cyber defenses with NIST compliance
 - [Instagram](https://www.facebook.com/nettologyit)
 - [Twitter](https://twitter.com/NettologyIT)
-  - **Recent post subjects**:
+  - **Recent post subjects**: repeats of LinkedIn and Facebook
 - [YouTube](https://www.youtube.com/channel/UCx8bpgYIUn2F2grZF5qMI4g)
-  - **Recent video subjects**:
+  - **Recent video subjects**: SHORTS - SaaS ransomware | cybersecurity secrets | cybersecurity essentials | cyber hygiene | top tech tools | malware | secure remote work
 - [Blog](https://nettology.net/blog/)
-  - **Recent post titles**:
+  - **Recent post titles**: network design strategies | network design 101 | network design | Microsoft 365 tips | Microsoft 365 migration | Microsoft 365 migration | network move essentials | network moving mastery
+
+.....................
 
 10. [Bardissi Enterprises](https://www.bardissi.net/)
 
@@ -244,9 +248,13 @@ Types of Schema Markup:
 - [Twitter](https://twitter.com/bardissient)
 - [Blog](https://www.bardissi.net/blog)
 
+.....................
+
 11. [Beringer Technology Group](https://www.beringer.net/)
 
 - [Blog](https://www.beringer.net/blog/)
+
+.....................
 
 12. Voree IT Solutions - "Your connection is not private"
 
@@ -254,9 +262,13 @@ Types of Schema Markup:
 
 14. Waytek - Product sales?
 
+.....................
+
 15. [Networx IT Solutions](https://www.networx.us/)
 
 - [Facebook](https://www.facebook.com/networxitsolutionsllc/)
+
+.....................
 
 16. [IT Service ArchiTechs](https://www.itsatechs.com/)
 

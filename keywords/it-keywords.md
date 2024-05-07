@@ -100,11 +100,7 @@ Incorporate these keywords into your site pages and posts, as well as social med
 - Use the site links to see your competitors site structure and the keywords they use on their pages.
 - Use the social links to see what type of content they post and how often.
 
-### Expertise.com Link
-
-[17 Best Managed IT Service Providers in Philadelphia](https://www.expertise.com/pa/philadelphia/managed-service-providers)
-
-#### Schema Markup
+### Schema Markup
 
 <!--
 https://www.semrush.com/blog/schema-markup/
@@ -122,6 +118,10 @@ Types of Schema Markup:
 - Course Markup
 - Organization Markup
 - Local Business
+
+### Expertise.com Link
+
+[17 Best Managed IT Service Providers in Philadelphia](https://www.expertise.com/pa/philadelphia/managed-service-providers)
 
 1. [PCH Technologies](https://pchtechnologies.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
@@ -235,29 +235,29 @@ Types of Schema Markup:
 - [Twitter](https://twitter.com/NettologyIT)
   - **Recent post subjects**: repeats of LinkedIn and Facebook
 - [YouTube](https://www.youtube.com/channel/UCx8bpgYIUn2F2grZF5qMI4g)
-  - **Recent video subjects**: SHORTS - SaaS ransomware | cybersecurity secrets | cybersecurity essentials | cyber hygiene | top tech tools | malware | secure remote work
+  - **Recent video subjects**: SHORTS - SaaS ransomware | cybersecurity secrets | cybersecurity essentials | cyber hygiene | top tech tools | malware | secure remote work. The channel has 1 subsciber and most videos have 0 views.
 - [Blog](https://nettology.net/blog/)
-  - **Recent post titles**: network design strategies | network design 101 | network design | Microsoft 365 tips | Microsoft 365 migration | Microsoft 365 migration | network move essentials | network moving mastery
+  - **Recent post subjects**: network design strategies | network design 101 | network design | Microsoft 365 tips | Microsoft 365 migration | Microsoft 365 migration | network move essentials | network moving mastery
 
 .....................
 
 10. [Bardissi Enterprises](https://www.bardissi.net/) - Schema, unsure of source
 
 - [LinkedIn](https://www.linkedin.com/company/bardissi-enterprises-llc/)
-  - **Recent post titles**: _no posts_
+  - **Recent post subjects**: _no posts_
 - [Facebook](https://www.facebook.com/bardissiit)
-  - **Recent post titles**: _last post from 2022, next one from 2020..._
+  - **Recent post subjects**: _last post from 2022, next one from 2020..._
 - [Twitter](https://twitter.com/bardissient)
-  - **Recent post titles**: _last post from 2019_
+  - **Recent post subjects**: _last post from 2019_
 - [Blog](https://www.bardissi.net/blog)
-  - **Recent post titles**: hard drive failure | hybrid operations | cybersecurity burnout | cybersecurity solutions | cybersecurity & QR Codes | AI and email security
+  - **Recent post subjects**: hard drive failure | hybrid operations | cybersecurity burnout | cybersecurity solutions | cybersecurity & QR Codes | AI and email security
 
 .....................
 
 11. [Beringer Technology Group](https://www.beringer.net/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Blog](https://www.beringer.net/blog/)
-  - **Recent post titles**: DataSyncCloud Enhancement Release | Dynamics 365 | secure IoT devices | Dynamics 365 Plug-ins | Dataverse Web API | DataSyncCloud Enhancement Release | Dynamics 365 & Power Platform 2024 Release
+  - **Recent post subjects**: DataSyncCloud Enhancement Release | Dynamics 365 | secure IoT devices | Dynamics 365 Plug-ins | Dataverse Web API | DataSyncCloud Enhancement Release | Dynamics 365 & Power Platform 2024 Release
 
 .....................
 
@@ -272,23 +272,23 @@ Types of Schema Markup:
 15. [Networx IT Solutions](https://www.networx.us/) - Schema, unsure of source
 
 - [Facebook](https://www.facebook.com/networxitsolutionsllc/)
-  - **Recent post titles**: just self-promotopn mostly
+  - **Recent post subjects**: just self-promotion mostly
 
 .....................
 
 16. [IT Service ArchiTechs](https://www.itsatechs.com/) - Microdata Schema markup
 
 - [LinkedIn](https://www.linkedin.com/company/it-service-architechs-llc/)
-  - **Recent post titles**: network disruptions | client callout | Unforeseen disruptions | cyber insurance | client callout | moving to the cloud | ransomware and phishing | cloud security
+  - **Recent post subjects**: network disruptions | client callout | Unforeseen disruptions | cyber insurance | client callout | moving to the cloud | ransomware and phishing | cloud security
 - [Facebook](https://www.facebook.com/ITSA.Support)
-  - **Recent post titles**: repeat of LinkedIn plus some other posts
+  - **Recent post subjects**: repeat of LinkedIn plus some other posts
 - [Instagram](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
 - [Twitter](https://twitter.com/itsa_tweets)
-  - **Recent post titles**: moving to the cloud | ChatGPT and cyber attack | ransomware | cybersecurity plan | phishing | cybersecurity
+  - **Recent post subjects**: moving to the cloud | ChatGPT and cyber attack | ransomware | cybersecurity plan | phishing | cybersecurity
 - [YouTube](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
   - **Recent video subjects**: One 15 second video from 5 years ago
 - [Blog](https://www.itsatechs.com/category/blog/)
-  - **Recent post titles**: gmail security rules | cybersecurity | IoT | e-commerce | remote work | deepfake tech | email platforms benefits | cloud computing
+  - **Recent post subjects**: gmail security rules | cybersecurity | IoT | e-commerce | remote work | deepfake tech | email platforms benefits | cloud computing
 
 .....................
 
@@ -302,32 +302,49 @@ Types of Schema Markup:
 
 Repeats from above skipped
 
-1. [\*instinctools](https://www.instinctools.com/)
+1. [\*instinctools](https://www.instinctools.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/instinctools/)
+  - **Recent post subjects**: company specific hashtags | native mobile development | software delivery manager | AI and ODSC East 2024 | cross-platform development | client review | software development initiative | automation technologies
 - [Facebook](https://www.facebook.com/instinctoolslabs)
+  - **Recent post subjects**: company promo | cross-platform development | native mobile development | cross-platform engineering | company promo | software product development | company recognition | service delivery manager
 - [Instagram](https://www.instagram.com/instinctools/)
 - [Twitter](https://twitter.com/instinctools_EE)
+  - **Recent post subjects**: company specific hashtags | AI and ODSC East 2024 | cross platform vs native roundup | cross platform vs native | software development | company recognition | service delivery manager
 - [YouTube](https://www.youtube.com/@instinctoolsglobal)
+  - **Stats**: mostly shorts but some longer videos, the videos are recent. 72 subscribers, 32 videos
 - [Blog](https://www.instinctools.com/blog/) - labeled as "Insights"
+  - **Recent post subjects**: the source articles for the posts above plus enterprise automation | app launch guide | enterprise projects | digital twin tech | inventory management sustem | ecommerce and Gen AI
+
+.....................
 
 2. [Ascendant Technologies, Inc](https://ascendantusa.com/)
 
 - [Blog](https://ascendantusa.com/blog/)
+  - **Recent post subjects**:
+
+.....................
 
 3. [designDATA](https://www.designdata.com/)
 
 - [Blog](https://blog.designdata.com/)
+  - **Recent post subjects**:
+
+.....................
 
 4. [Exigent Technologies](https://www.exigent.net/)
 
 - [LinkedIn](https://www.linkedin.com/company/exigent-technologies/)
+  - **Recent post subjects**:
 - [Facebook](https://www.facebook.com/ExigentTechnologies)
 - [Instagram](https://www.youtube.com/user/exigenttechnologies)
 - [Twitter](https://twitter.com/_Exigent)
 - [YouTube](https://www.youtube.com/user/exigenttechnologies)
+  - **Recent video subjects**:
 - [Blog](https://www.exigent.net/blog/)
 - [TikTok](https://www.tiktok.com/@exigentmichael)
+
+.....................
 
 5. [Charter Technology Solutions](https://charterts.com/)
 

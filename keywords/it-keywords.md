@@ -254,10 +254,10 @@ Types of Schema Markup:
 
 .....................
 
-11. [Beringer Technology Group](https://www.beringer.net/)
+11. [Beringer Technology Group](https://www.beringer.net/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Blog](https://www.beringer.net/blog/)
-  - **Recent post titles**:
+  - **Recent post titles**: DataSyncCloud Enhancement Release | Dynamics 365 | secure IoT devices | Dynamics 365 Plug-ins | Dataverse Web API | DataSyncCloud Enhancement Release | Dynamics 365 & Power Platform 2024 Release
 
 .....................
 
@@ -269,20 +269,28 @@ Types of Schema Markup:
 
 .....................
 
-15. [Networx IT Solutions](https://www.networx.us/)
+15. [Networx IT Solutions](https://www.networx.us/) - Schema, unsure of source
 
 - [Facebook](https://www.facebook.com/networxitsolutionsllc/)
+  - **Recent post titles**: just self-promotopn mostly
 
 .....................
 
-16. [IT Service ArchiTechs](https://www.itsatechs.com/)
+16. [IT Service ArchiTechs](https://www.itsatechs.com/) - Microdata Schema markup
 
 - [LinkedIn](https://www.linkedin.com/company/it-service-architechs-llc/)
+  - **Recent post titles**: network disruptions | client callout | Unforeseen disruptions | cyber insurance | client callout | moving to the cloud | ransomware and phishing | cloud security
 - [Facebook](https://www.facebook.com/ITSA.Support)
+  - **Recent post titles**: repeat of LinkedIn plus some other posts
 - [Instagram](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
 - [Twitter](https://twitter.com/itsa_tweets)
+  - **Recent post titles**: moving to the cloud | ChatGPT and cyber attack | ransomware | cybersecurity plan | phishing | cybersecurity
 - [YouTube](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
+  - **Recent video subjects**: One 15 second video from 5 years ago
 - [Blog](https://www.itsatechs.com/category/blog/)
+  - **Recent post titles**: gmail security rules | cybersecurity | IoT | e-commerce | remote work | deepfake tech | email platforms benefits | cloud computing
+
+.....................
 
 17. The LLB Group, LLC - "Your connection is not private"
 

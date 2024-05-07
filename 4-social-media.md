@@ -49,6 +49,50 @@ Engage your audience by adopting a series-based approach to your content. Whethe
 10. **Brand manager**: is responsible for building a brand based on their company's target audience. They ensure that the content and messaging created by their marketing team aligns with the values, goals and style of the brand. It is their job to maintain a brand's integrity across all channels, including email, paid media, traditional marketing and social media. They help their brand tell a consistent story and maintain the same voice and imagery on all platforms
 11. Digital project manager
 12. **Data analyst**: collects and looks at data from social media campaigns. They assess whether a brand's social media efforts are reaching the intended audience. They look at data, such as impressions, click-through-rates, engagement and likes. A data analyst also uses sales software to see if social media is leading to any meaningful conversions for the brand
-13. **Content strategist**: plans all the content a brand is going to share. They keep track of current content marketing trends to help them plan which content to produce. Along with creating videos, blogs and infographics to post on the brand's website, they will also find compelling ways to share this content on social media. They work to understand what types of content their target audience may be interesting in seeing
+13. **Content strategist**: see `content.md`
 14. Creative director
 15. **Social media strategist**: a content marketing professional who specializes in creating social media campaigns. The social media strategist might create a plan for how to use social media to achieve the goals of the overall content marketing team and their client or employer, as well as creating a calendar of planned content for social media and drafting that content. Social media strategists may need some skills with visual marketing as well as written marketing, and they definitely need to be knowledgeable about the primary types of social media
+
+### additional details for social media positions
+
+<ins>Social media coordinator</ins>
+
+- Develop social media strategies to increase brand awareness & drive engagement
+- Execute and curate engaging content for all social media platforms
+- Monitor social media channels for trends, feedback, and conversations related to a brand and industry
+- Respond to comments, messages, and mentions on social media
+- Analyze social media performance metrics and provide regular reports to track progress and identify areas for improvement
+- Stay up-to-date on industry trends, best practices, and emerging platforms to continuously optimize the social media strategy
+- Strong understanding of social media platforms, algorithms, and trends
+- Excellent written and verbal communication skills
+- Creative thinker with a passion for storytelling and content creation
+- Experience with `**social media analytics and reporting tools**`
+- Proficiency in `social media management tools and analytics platforms`
+- Track and analyze social media performance metrics, providing insights and recommendations for optimization based on data and trends
+- Knowledge of influencer marketing strategies and tactics
+- Assist with the management of influencer partnerships and collaborations, including outreach, negotiation, and campaign execution
+- Schedule and publish social media content across platforms
+
+<ins>Social media specialist</ins>
+
+- Develop and execute a comprehensive `organic` social media strategy
+- Create and curate compelling content that resonates with the target audience, including images, videos, infographics, and written posts
+- Actively manage and engage with the online community, responding to comments, messages, and inquiries
+- Utilize `social listening` tools to monitor brand mentions, industry trends, and customer feedback
+- Track and analyze key performance metrics for organic social media activities, such as engagement rates, follower growth, and sentiment analysis. Use insights to inform future content and strategy decisions
+- Identify and collaborate with influencers and brand advocates to expand reach and enhance credibility on social platforms
+- Plan and maintain a content calendar that ensures a consistent and strategic presence on social media channels
+- Optimize company pages within each platform to increase the visibility of company’s social content
+- Proofreads posts and graphics for clarity, grammar, and spelling
+
+<ins>Social media strategist</ins>
+
+- Overseeing the creation of content: planning out content calendars, writing copy, providing direction and feedback to designers and our short-form video creator, and scheduling posts
+- Develop and execute comprehensive social media strategies across social media platforms
+- Lead the development and execution of comprehensive social media strategies tailored to meet objectives
+- This includes identifying key social media trends, platforms, and tactics
+- Drive initiatives to enhance our brand visibility and recognition across social media channels
+- Stay abreast of the latest features, algorithms, and best practices across various social media platforms
+- develop compelling and relevant content for social media channels. Create content calendars, manage publishing schedules, and ensure content aligns with overall marketing and communication objectives
+- Monitor and analyze social media metrics and KPIs to evaluate the effectiveness of campaigns and initiatives
+- Foster meaningful interactions and relationships with our audience across social media platforms. Respond to comments, messages, and inquiries

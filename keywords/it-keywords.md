@@ -119,6 +119,14 @@ Types of Schema Markup:
 - Organization Markup
 - Local Business
 
+### Most used social media platforms or information
+
+1. LinkedIn
+2. Facebook
+3. Twitter
+4. Blog
+5. TikTok
+
 ### Expertise.com Link
 
 [17 Best Managed IT Service Providers in Philadelphia](https://www.expertise.com/pa/philadelphia/managed-service-providers)
@@ -318,41 +326,50 @@ Repeats from above skipped
 
 .....................
 
-2. [Ascendant Technologies, Inc](https://ascendantusa.com/)
+2. [Ascendant Technologies, Inc](https://ascendantusa.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Blog](https://ascendantusa.com/blog/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: managed wifi | network management | network specialist | best business computers 2024 | data security encryption (exceprt typo) | onsite IT support services | strong password tips
 
 .....................
 
-3. [designDATA](https://www.designdata.com/)
+3. [designDATA](https://www.designdata.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Blog](https://blog.designdata.com/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: MS Copilot and MS 365 | cybersecurity tips | zero trust security in washington DC | AI & best practices for data | MS teams premium | MS secure score and cybersecurity | internet security tips
 
 .....................
 
-4. [Exigent Technologies](https://www.exigent.net/)
+4. [Exigent Technologies](https://www.exigent.net/) - JSON-LD Schema markup: `"@type":"Organization"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/exigent-technologies/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: hybrid workforce security | Remote employees and cyberattacks | remote work and VPN and SASE | disaster recovery checklist | #LAwDay | phishing scams, device vulnerabilities, and data breaches
 - [Facebook](https://www.facebook.com/ExigentTechnologies)
+  - **Recent post subjects**: _same as LinkedIn_
 - [Instagram](https://www.youtube.com/user/exigenttechnologies)
 - [Twitter](https://twitter.com/_Exigent)
+  - **Recent post subjects**: _same as LinkedIn_
 - [YouTube](https://www.youtube.com/user/exigenttechnologies)
-  - **Recent video subjects**:
+  - **Recent video subjects**: 69 subscribers ‧ 11 videos - webinars & shorts with dozens of views
 - [Blog](https://www.exigent.net/blog/)
+  - **Recent post subjects**: SASE Vs. VPN | remote employeees security | dispersed workforce | remote success | Compliant Business Continuity Strategy | backup & recovery | recovery response
 - [TikTok](https://www.tiktok.com/@exigentmichael)
+  - **Recent post subjects**: posts vary from 100's of views to 1000's of views to 10,000's of views!
 
 .....................
 
-5. [Charter Technology Solutions](https://charterts.com/)
+5. [Charter Technology Solutions](https://charterts.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/charter-technology-solutions/about/)
+  - **Recent post subjects**: schools and cyber threats | National Charter Schools Week | Cybersecurity and nonprofits | tracking and locking software to protect mobile devices in schools | Classroom Readiness Program | IT support for schools
 - [Facebook](https://www.facebook.com/charterts/)
+  - **Recent post subjects**: _no posts_
 - [Twitter](https://twitter.com/charterts)
+  - **Recent post subjects**: more school subjects
 - [YouTube](https://www.youtube.com/channel/UCPp27LnjO9TIPUOiS_Ftopw)
+  - **Recent video subjects**: 14 subscribers, 11 videos - mostly about school security
 - [Blog](https://charterts.com/blog/)
+  - **Recent post subjects**: company making it on certtain lists | education article | IT provider for building planning | MSP and public sector organizations | public sector IT | MSP and commercial firms
 
 ---
 

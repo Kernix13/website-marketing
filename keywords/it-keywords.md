@@ -123,7 +123,7 @@ Types of Schema Markup:
 - Organization Markup
 - Local Business
 
-1. [PCH Technologies](https://pchtechnologies.com/) - Schema markup: `"@type":"WebPage"`
+1. [PCH Technologies](https://pchtechnologies.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
 - [LinkedIn](https://www.linkedin.com/company/pch-technologies/posts/?feedView=all)
   - **Recent post subjects**: securing data | 2024 Verizon data breach investigations report | 2024 TMT boot camp | BLF Business Expo | mobile phishing scams | mobile devices passwords
@@ -138,7 +138,7 @@ Types of Schema Markup:
 
 .....................
 
-2. [BetterWorld Technology](https://www.betterworldtechnology.com/) - Schema markup: `"@type":"LocalBusiness"`
+2. [BetterWorld Technology](https://www.betterworldtechnology.com/) - JSON-LD Schema markup: `"@type":"LocalBusiness"`
 
 - [LinkedIn](https://www.linkedin.com/company/betterworld-tech/)
   - **Recent post subjects**: cyber threats | happy earth day | IT solutions in Nashville | cybersecurity | Pax8 Academy Live speaking event | CvCISO certification | cyber attacks
@@ -154,7 +154,7 @@ Types of Schema Markup:
 
 .....................
 
-3. [Village Helpdesk](https://villagehelpdesk.com/) - Schema markup: `"@type":"WebPage"`
+3. [Village Helpdesk](https://villagehelpdesk.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
 - [LinkedIn](https://www.linkedin.com/company/village-helpdesk/)
   - **Recent post subjects**: NO POSTS
@@ -168,7 +168,7 @@ Types of Schema Markup:
 
 .....................
 
-4. [Liberty Technology Solutions](https://libertylts.com/) - Schema markup: `"@type":"Place"` and other types
+4. [Liberty Technology Solutions](https://libertylts.com/) - JSON-LD Schema markup: `"@type":"Place"` and other types
 
 - [Facebook](https://www.facebook.com/libertytechnologysolutions/)
   - **Recent post subjects**: supporting the outside sales staff | online faxing service | thank you to Plasma Services Group | managed phone solution | happy 4th of july |
@@ -180,7 +180,7 @@ Types of Schema Markup:
 
 .....................
 
-5. [DLC Technology](https://www.dlctechnology.com/) - Schema markup: `"@type":"WebSite"` and MANY other types
+5. [DLC Technology](https://www.dlctechnology.com/) - JSON-LD Schema markup: `"@type":"WebSite"` and MANY other types
 
 - [LinkedIn](https://www.linkedin.com/company/dlctechnology/)
   - **Recent post subjects**: AI cyber attacks | text messages | data breach hack | fake verification apps | LastPass passwords | Nespresso domain | messenger apps | ransomware | 2FA | remote attacks | credit card skimmer
@@ -194,7 +194,7 @@ Types of Schema Markup:
 
 .....................
 
-6. [ITDATA](https://www.itdata.com/) - Schema markup: `"@type":"WebPage"` and others
+6. [ITDATA](https://www.itdata.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/itdata-inc/)
   - **Recent post subjects**: non-profit event (4 X's) | job opening
@@ -213,7 +213,7 @@ Types of Schema Markup:
 
 .....................
 
-8. [Rapport IT Services LLC](https://www.rapportit.com/) - Schema markup: `"@type":"WebPage"` and others
+8. [Rapport IT Services LLC](https://www.rapportit.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/rapportit/)
   - **Recent post subjects**: developer debugging | datafication | tech innovation | Cybersecurity Essentials | computer shortcut keys
@@ -225,7 +225,7 @@ Types of Schema Markup:
 
 .....................
 
-9. [Nettology LLC](https://nettology.net/) - Schema markup: `"@type":"WebPage"` and others
+9. [Nettology LLC](https://nettology.net/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/nettology-llc/)
   - **Recent post subjects**: cloud and AWS Migration | cyber defenses with NIST compliance | review | cybersecurity mistakes | Network Move & Site Setup | outsourcing IT services | Firewall Assessment & Installation service
@@ -241,18 +241,23 @@ Types of Schema Markup:
 
 .....................
 
-10. [Bardissi Enterprises](https://www.bardissi.net/)
+10. [Bardissi Enterprises](https://www.bardissi.net/) - Schema, unsure of source
 
 - [LinkedIn](https://www.linkedin.com/company/bardissi-enterprises-llc/)
+  - **Recent post titles**: _no posts_
 - [Facebook](https://www.facebook.com/bardissiit)
+  - **Recent post titles**: _last post from 2022, next one from 2020..._
 - [Twitter](https://twitter.com/bardissient)
+  - **Recent post titles**: _last post from 2019_
 - [Blog](https://www.bardissi.net/blog)
+  - **Recent post titles**: hard drive failure | hybrid operations | cybersecurity burnout | cybersecurity solutions | cybersecurity & QR Codes | AI and email security
 
 .....................
 
 11. [Beringer Technology Group](https://www.beringer.net/)
 
 - [Blog](https://www.beringer.net/blog/)
+  - **Recent post titles**:
 
 .....................
 

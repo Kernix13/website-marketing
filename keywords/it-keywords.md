@@ -379,40 +379,67 @@ Repeats from above skipped
 
 [Top 20 Managed Service Providers in Philadelphia](https://www.cloudtango.net/msp/Philadelphia)
 
-> Repeats skipped
+Repeats from above skipped
 
-1. [Verinext](https://verinext.com/)
+1. [Verinext](https://verinext.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/verinext/)
+  - **Recent post subjects**: IT self service | privileged access management | IT financing | enterprise storage | numerous community eventts posts | local Women in CyberSecurity | cyber security defenses
 - [Instagram](https://www.instagram.com/lifeatverinext/)
 - [Twitter](https://twitter.com/verinext)
+  - **Recent post subjects**: same as LinkedIn and object storage and application data |
 - [Blog](https://verinext.com/blog/)
+  - **Recent post subjects**: Application Support and Maintenance | digital marketing | IT financing | IT self service | cyber security defenses | enterprise storage | merger rebranding | modern networking | customer touchpoint
 
-2. [IT Solutions Consulting](https://www.itsolutions-inc.com/)
+.....................
+
+2. [IT Solutions Consulting](https://www.itsolutions-inc.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/it-solutions-consulting-llc/)
+  - **Recent post subjects**: M&A symposium invite | client testimonial | Kaseya Global Connect M&A Symposium | hiring posts | Roku account poll | ALA Gateway Chapter's Board Retreat Happy Hour at Seven Gables Inn in St. Louis | HIMSS Kansas Chapter 2024 Conference
 - [Facebook](https://www.facebook.com/PickITS/)
+  - **Recent post subjects**: most recent post from 2021
 - [Twitter](https://twitter.com/PickITS)
+  - **Recent post subjects**: client testimonial | cyber insurance | M&A symposium Las Vegas | client testimonial | penetration testing | repeat of the happy hour post above
 - [YouTube](https://www.youtube.com/user/ITSolutionsVideo)
+  - **Recent video subjects**: 189 subscribers, 46 videos - last video 6 months old on healthcare IT
 - [Blog](https://www.itsolutions-inc.com/category/blog/featured)
+  - **Recent post subjects**: cyber insurance | customer success team | AlaaS | sales kickoff Atlantic City | MSP 500 list recognition | best AI platforms for business | 2023 year in review | telehealth tech
 
-3. [Advanced Network Products](https://www.anp.net/) -> application/ld+json schema in the source
+.....................
+
+3. [Advanced Network Products](https://www.anp.net/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/advanced-network-products-inc/)
+  - **Recent post subjects**: now a part of Coretelligent | cybersecurity | #msteams new features: Snapchat filters and Avatars | endpoint detection - _end of posts_
 - [Facebook](https://www.facebook.com/AdvancedNetworkProductsInc/)
+  - **Recent post subjects**: passwordless auth (over a year old) | Microsoft 365 licensing costs | unified endpoint management | cyber response webinar | ANP annual holiday party
 - [Twitter](https://twitter.com/ANPOutsourceIT)
+  - **Recent post subjects**: _last post from 2022_
 - [YouTube](https://www.youtube.com/channel/UCySstMpBXK9rIqUdoMaMAzw)
+  - **Recent video subjects**: 134 subscribers, 24 videos - last video 10 months old on antivirus
 - [Blog](https://www.anp.net/blog)
+  - **Recent post subjects**: data privacy and Zoom | AI webinar | cloud security | microsoft teams avatars & snap filters | windows server 2012 | endpoint detection | Microsoft 365 licensing costs
 
-4. [Windows Management Experts](https://windowsmanagementexperts.com/) -> application/ld+json schema
+.....................
+
+4. [Windows Management Experts](https://windowsmanagementexperts.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [Blog](https://windowsmanagementexperts.com/blog/)
+  - **Recent post subjects**: WME security briefing | cybersecurity in defense | WME security briefing | WME security briefing | Microsoft 365 licening update | energy sector cyber security | WME security briefing
 
-5. [CrafTech Computer Solutions](https://craftech.com/) -> application/ld+json schema in the source
+.....................
+
+5. [CrafTech Computer Solutions](https://craftech.com/) - JSON-LD Schema markup: `"@type":"WebPage"` and others
 
 - [LinkedIn](https://www.linkedin.com/company/craftechcs/)
+  - **Recent post subjects**: cloud-based services | cloud infrastructure and network configuration | private information | juice jacking | cloud data storage | cybersecurity services
 - [Facebook](https://www.facebook.com/CrafTechCS/)
+  - **Recent post subjects**: VoIP systems | outsourcing IT functions | Cybercrime | Cloud-based services | web cache | cloud computing | Internet of Things | VPN setup
 - [Blog](https://craftech.com/blog/)
+  - **Recent post subjects**: Digital Storefront Transformations | Custom Surveillance Camera Systems in Risk Management | Cloud Computing | Server Installation and Data Migration | Outsourced IT
+
+.....................
 
 6. [Rivell LLC](https://rivell.com/)
 
@@ -421,6 +448,8 @@ Repeats from above skipped
 - [Instagram](https://www.instagram.com/rivell_llc/)
 - [Twitter](https://twitter.com/rivell_llc)
 - [Blog](https://rivell.com/blog/)
+
+.....................
 
 7. [Evolve IP](https://www.evolveip.net/)
 
@@ -431,11 +460,15 @@ Repeats from above skipped
 - [YouTube](https://www.youtube.com/user/EvolveIP)
 - [Blog](https://www.evolveip.net/blog)
 
+.....................
+
 8. [Total Technology Resources](https://www.thetechresource.com/) -> application/ld+json schema in the source
 
 - [Facebook](https://www.facebook.com/ttrllc19116/)
 - [Twitter](https://twitter.com/TTR_LLC)
 - [Blog](https://www.thetechresource.com/blog/)
+
+.....................
 
 9. [CompuData](https://www.compudata.com/) -> application/ld+json schema in the source
 
@@ -445,6 +478,8 @@ Repeats from above skipped
 - [YouTube](https://www.youtube.com/user/CompuDataInc)
 - [Blog](https://www.compudata.com/blog/)
 
+.....................
+
 10. [Zog, Inc.](https://www.zoginc.com/) -> application/ld+json schema
 
 - [LinkedIn](https://www.linkedin.com/company/zog-inc/)
@@ -452,10 +487,14 @@ Repeats from above skipped
 - [Instagram](https://www.facebook.com/zoginc/)
 - [Blog](https://www.zoginc.com/blog)
 
+.....................
+
 11. [Source One System Solutions](https://www.source1sys.com/)
 
 - [LinkedIn](https://www.linkedin.com/company/source-one-system-solutions/)
 - [Blog](https://www.source1sys.com/blog-2/)
+
+.....................
 
 12. [Cloudnexa](https://www.cloudnexa.com/) -> application/ld+json schema
 
@@ -464,7 +503,11 @@ Repeats from above skipped
 - [Twitter](https://twitter.com/cloudnexa)
 - [Blog](https://www.cloudnexa.com/resources/blogs/)
 
+.....................
+
 13. [Jomar Systems](https://www.jomarsystems.com/) -> application/ld+json schema
+
+.....................
 
 14. [Christo IT Services](https://www.christoit.com/) -> application/ld+json schema
 
@@ -473,3 +516,12 @@ Repeats from above skipped
 - [Twitter](https://twitter.com/christoit)
 - [YouTube](https://www.youtube.com/channel/UCOEYp8P9ezYBnss_yk3YlSQ)
 - [Blog](https://blog.christoit.com/)
+
+<!--
+- next research how to get social media post statistics
+- then research social media job title requirements
+- then job titles for
+  - seo positions,
+  - content marketing positions,
+  - website marketing positions
+ -->

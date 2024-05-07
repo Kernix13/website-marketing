@@ -147,12 +147,13 @@ Types of Schema Markup:
 - [Facebook](https://www.facebook.com/BetterWorldTech)
   - **Recent post subjects**: CRN’s Managed Service Provider (MSP) 500 list | IT partner in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | Please check your inbox✅ | Earth day
 - [Instagram](https://www.instagram.com/betterworld_technology/)
+  - **Recent post subjects**: cyber attacks - 9 likes (March 14) | named top company - 8 likes | clutch global award - 5 likes | advanced threat analysis - 6 likes
 - [Twitter](https://twitter.com/betterworldtech)
   - **Recent post subjects**: IT partner in Nashville | Remote Management & Monitoring | Earth day | IT in Chicago | server performance | 2024 tech talk | cyber threats | NYC cybersecurity
 - [Medium](https://betterworldtech.medium.com/)
   - **Recent article subjects**: Nashville Managed IT Services | NYC MSPs | mentioned in Real Leaders list | cybersecurity | mentioned by Clutch | benefits of using MSP
 - [Blog](https://www.betterworldtechnology.com/better-blog)
-  - **Recent post subjects**: IT solutions in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | IT in Chicago | server performance | Mrch 2024 newsletter
+  - **Recent post subjects**: IT solutions in Nashville | Nashville Managed IT Services | Remote Management & Monitoring | IT in Chicago | server performance | March 2024 newsletter
 
 .....................
 
@@ -163,6 +164,7 @@ Types of Schema Markup:
 - [Facebook](https://www.facebook.com/VillageHelpdesk/)
   - **Recent post subjects**: leave the world behind | leave the world behind | cybersecurity | IT costs | proactive support | IT support | cloud license | IT support | cloud migration services
 - [Instagram](https://www.instagram.com/villagehelpdesk/)
+  - **Recent post subjects**: most recent post over a year old, all posts have only 1 like which means they liked it
 - [Twitter](https://twitter.com/HelpdeskVillage)
   - **Recent post subjects**: NuPaths collaboration | IT support | cloud license | IT support | cloud migration services | IT consulting services
 - [Blog](https://villagehelpdesk.com/village-tech-talk/) - labeled as "News"
@@ -174,7 +176,8 @@ Types of Schema Markup:
 
 - [Facebook](https://www.facebook.com/libertytechnologysolutions/)
   - **Recent post subjects**: supporting the outside sales staff | online faxing service | thank you to Plasma Services Group | managed phone solution | happy 4th of july |
-- [Instagram](https://twitter.com/LibertyLTS)
+- [Instagram](https://www.instagram.com/libertytechnologysolutions/)
+  - **Recent post subjects**: last post from Oct 2023 has 8 likes
 - [Twitter](https://twitter.com/LibertyLTS)
   - **Recent post subjects**: image post | video post | debilitating hacks | insurance company ransomware | ransomware attacks | data back up | password strength
 - [YouTube](https://www.youtube.com/channel/UCYAWbJvNhS7rzzxw4VK6hTQ)
@@ -188,7 +191,8 @@ Types of Schema Markup:
   - **Recent post subjects**: AI cyber attacks | text messages | data breach hack | fake verification apps | LastPass passwords | Nespresso domain | messenger apps | ransomware | 2FA | remote attacks | credit card skimmer
 - [Facebook](https://www.facebook.com/dlctechnology)
   - **Recent post subjects**: custom managed IT solutions | AI cyber attacks | ..._repeat of LinkedIn_
-- [Instagram](https://twitter.com/dlctechnology)
+- [Instagram](https://www.instagram.com/dlctechnology/)
+  - **Recent post subjects**: last post Sept 2023 with 3 likes
 - [Twitter](https://twitter.com/dlctechnology)
   - **Recent post subjects**: custom managed IT solutions | happy Labor Day
 - [Blog](https://www.dlctechnology.com/connect/blog)
@@ -203,6 +207,7 @@ Types of Schema Markup:
 - [Facebook](https://www.facebook.com/ITDATAinc)
   - **Recent post subjects**: Microsoft accessibility | Happy Thanksgiving | Happy Halloween | Go Birds | cloud-based docketing system, Milana
 - [Instagram](https://www.instagram.com/itdatainc/)
+  - **Recent post subjects**: all dogs like above
 - [Blog](https://www.itdata.com/about-itdata/blog/)
   - **Recent post subjects**: office 365 | collaboration from 2020
 
@@ -221,7 +226,8 @@ Types of Schema Markup:
   - **Recent post subjects**: developer debugging | datafication | tech innovation | Cybersecurity Essentials | computer shortcut keys
 - [Facebook](https://www.facebook.com/rapportit/)
   - **Recent post subjects**: same as LinkedIn
-- [Instagram](https://www.linkedin.com/company/rapportit/)
+- [Instagram](https://www.instagram.com/rapportits/)
+  - **Recent post subjects**: all dogs like above
 - [Twitter](https://twitter.com/RapportITS)
   - **Recent post subjects**: _Dead account_
 
@@ -233,7 +239,8 @@ Types of Schema Markup:
   - **Recent post subjects**: cloud and AWS Migration | cyber defenses with NIST compliance | review | cybersecurity mistakes | Network Move & Site Setup | outsourcing IT services | Firewall Assessment & Installation service
 - [Facebook](https://www.facebook.com/nettologyit)
   - **Recent post subjects**: cybersecurity mistakes | outsourcing IT services | review | Network Move & Site Setup | cloud with seamless AWS Migration | cyber defenses with NIST compliance
-- [Instagram](https://www.facebook.com/nettologyit)
+- [Instagram](https://www.instagram.com/nettology.it)
+  - **Recent post subjects**: all dogs like above
 - [Twitter](https://twitter.com/NettologyIT)
   - **Recent post subjects**: repeats of LinkedIn and Facebook
 - [YouTube](https://www.youtube.com/channel/UCx8bpgYIUn2F2grZF5qMI4g)
@@ -284,7 +291,8 @@ Types of Schema Markup:
   - **Recent post subjects**: network disruptions | client callout | Unforeseen disruptions | cyber insurance | client callout | moving to the cloud | ransomware and phishing | cloud security
 - [Facebook](https://www.facebook.com/ITSA.Support)
   - **Recent post subjects**: repeat of LinkedIn plus some other posts
-- [Instagram](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
+- [Instagram](https://www.instagram.com/it_service_architechs/)
+  - **Recent post subjects**: all dogs like above
 - [Twitter](https://twitter.com/itsa_tweets)
   - **Recent post subjects**: moving to the cloud | ChatGPT and cyber attack | ransomware | cybersecurity plan | phishing | cybersecurity
 - [YouTube](https://www.youtube.com/channel/UCTU_0xWIwTayvflg6h3toyQ)
@@ -295,6 +303,8 @@ Types of Schema Markup:
 .....................
 
 17. The LLB Group, LLC - "Your connection is not private"
+
+> `Instagram` seems a waste of time since the posts that I have seem have so little likes
 
 ---
 
@@ -340,7 +350,7 @@ Repeats from above skipped
   - **Recent post subjects**: hybrid workforce security | Remote employees and cyberattacks | remote work and VPN and SASE | disaster recovery checklist | #LAwDay | phishing scams, device vulnerabilities, and data breaches
 - [Facebook](https://www.facebook.com/ExigentTechnologies)
   - **Recent post subjects**: _same as LinkedIn_
-- [Instagram](https://www.youtube.com/user/exigenttechnologies)
+- [Instagram](https://www.instagram.com/exigenttechnologies/)
 - [Twitter](https://twitter.com/_Exigent)
   - **Recent post subjects**: _same as LinkedIn_
 - [YouTube](https://www.youtube.com/user/exigenttechnologies)
@@ -539,7 +549,7 @@ Repeats from above skipped
 - [YouTube](https://www.youtube.com/channel/UCOEYp8P9ezYBnss_yk3YlSQ)
   - **Recent video subjects**: 2 subscribers, 29 videos - open house | core values | cybersecurity | lan deployment | outlook | self promos
 - [Blog](https://blog.christoit.com/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: a lot of articles on cybersecurity | legal practice | healthcare | small business
 
 <!--
 - next research how to get social media post statistics

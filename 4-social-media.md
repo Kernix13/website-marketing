@@ -81,13 +81,13 @@ Engage your audience by adopting a series-based approach to your content. Whethe
 
 13. **Content strategist**: see `content.md` - National average salary: $72,825 per year
 14. Creative director
-15. **Social media strategist**:
+15. **Social media strategist**: - National average salary: $65,671-73,197 per year
 
 - a content marketing professional who specializes in creating social media campaigns. The social media strategist might create a plan for how to use social media to achieve the goals of the overall content marketing team and their client or employer, as well as creating a calendar of planned content for social media and drafting that content. Social media strategists may need some skills with visual marketing as well as written marketing, and they definitely need to be knowledgeable about the primary types of social media
 
 ### additional details for social media positions
 
-<ins>Social media coordinator</ins>
+<ins>Social media coordinator</ins>: Average base salary = $20.28/hour
 
 - Develop social media strategies to increase brand awareness & drive engagement
 - Execute and curate engaging content for all social media platforms
@@ -105,7 +105,7 @@ Engage your audience by adopting a series-based approach to your content. Whethe
 - Assist with the management of influencer partnerships and collaborations, including outreach, negotiation, and campaign execution
 - Schedule and publish social media content across platforms
 
-<ins>Social media specialist</ins>
+<ins>Social media specialist</ins>: Average base salary = $20.43-24.00/hour
 
 - Develop and execute a comprehensive `organic` social media strategy
 - Create and curate compelling content that resonates with the target audience, including images, videos, infographics, and written posts
@@ -117,7 +117,7 @@ Engage your audience by adopting a series-based approach to your content. Whethe
 - Optimize company pages within each platform to increase the visibility of company’s social content
 - Proofreads posts and graphics for clarity, grammar, and spelling
 
-<ins>Social media strategist</ins>
+<ins>Social media strategist</ins>: Average salary = $73,197
 
 - Overseeing the creation of content: planning out content calendars, writing copy, providing direction and feedback to designers and our short-form video creator, and scheduling posts
 - Develop and execute comprehensive social media strategies across social media platforms

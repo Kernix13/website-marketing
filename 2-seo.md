@@ -100,23 +100,23 @@ Make your website as search-engine-friendly as possible and have UI/UX
 
 ### Other titles:
 
-**SEO Analyst**:
+**SEO Analyst**: Pennsylvania average salary: $79,359 per year
 
 - An entry-level role, SEO Analysts focus on gathering and analyzing data from websites to improve search rankings. They often assist with keyword research, monitor performance metrics, and provide insights to inform SEO strategies
 
-**SEO consultant**:
+**SEO consultant**: Average base salary = $46.00/hour
 
 - helps clients analyze, strategize, and deploy SEO best practices. As a consultant, you may work on a long-term basis with clients, or you might provide services for a shorter period or a specific objective
 
-**SEO strategist**:
+**SEO strategist**: National average salary: $68,618 per year
 
 - responsible for the overall SEO strategy that a company employs. This position could include researching keywords, optimizing content, or aspects of technical SEO. An SEO strategist is a catch-all title that often includes many different types of optimization. A similar role would be SEO manager
 
-**Technical SEO specialist**:
+**Technical SEO specialist**: National average salary: $87,353 per year
 
 - optimizes a website for search engines, which means making the website as functional as possible. For example, a tech specialist will make sure that all website links are working, the website is secure and optimized for speed, and ensure the XML sitemap is functioning.
 
-**SEO content writer**:
+**SEO content writer**: National average salary: $73,704 per year
 
 - create optimized content for websites. Optimized content includes carefully selected keywords used naturally in well-written articles, along with best practices for formatting and outlining the content
 

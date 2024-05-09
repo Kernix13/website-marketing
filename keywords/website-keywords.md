@@ -74,22 +74,20 @@
 
 **Keywords**:
 
-- WordPress Website Design Company | B2B and B2C services | website design | website development | website maintenance | e-commerce solutions | WordPress Web Design | WordPress Development Service | WordPress Development | E-Commerce Development Service | WordPress Maintenance Plans | WordPress core updates, plugin updates, theme updates, backups, security, health reporting, and 24/7 uptime monitoring | WordPress Security Service | install WordPress security plugins | employ third-party security measures | WordPress Training |
+- WordPress Website Design Company | B2B and B2C services | website design | website development | website maintenance | e-commerce solutions | WordPress Web Design | WordPress Development Service | WordPress Development | E-Commerce Development Service | WordPress Maintenance Plans | WordPress core updates, plugin updates, theme updates, backups, security, health reporting, and 24/7 uptime monitoring | WordPress Security Service | install WordPress security plugins | employ third-party security measures | WordPress Training | WordPress Plugin Development | WordPress consulting | WooCommerce development | WordPress security | WordPress migration | Website Backup | Performance Optimization | Website Security | Responsive Web Design | Website Caching | WordPress Installation | WordPress Customization | WordPress Web Development | WordPress Fix It Service | WordPress Consulting Service | Theme and Plugin Updates | Troubleshoot & Fix Issues | Daily Database Optimization | Google Analytics Integration | Malware Scanning & Removal | Speed Optimization | Weekly Website Health Reports | Weekly Website Uptime Reports | Firewall Protection | Security Scanning | Login Security |
 
 - [LinkedIn]()
-  - **Recent post subjects**:
+  - **Recent post subjects**: _No posts_
 - [Facebook](https://www.facebook.com/goldenoakwebdesign)
-  - **Recent post subjects**: ecommerce SEO (`Jan 2020`) | visual content in website | email marketing hack |
+  - **Recent post subjects**: (most recent post: `Jan 2020`)
 - [Twitter]()
-  - **Recent post subjects**:
-- [TikTok]()
-  - **Recent post subjects**:
+  - **Recent post subjects**: (most recent post: `Aug 2022`)
 - [Blog]()
-  - **Recent post subjects**: on-page UX | seo audit guide |
+  - **Recent post subjects**: on-page UX | seo audit guide | website secrets | Perfmatters vs Nitropack | seo trends | bulk edit media library | PWAs | customer journey mapping | icon & photo licensing
 
 ..................................................
 
-2. [NAME]() - JSON-LD Schema markup: `"@type":"WebPage"`
+2. [PSD Web Designs](https://www.psdwebdesigns.com/) - No Schema markup
 
 **Keywords**:
 
@@ -101,10 +99,35 @@
   - **Recent post subjects**:
 - [Twitter]()
   - **Recent post subjects**:
+- [Instagram]()
+  - **Recent post subjects**:
 - [TikTok]()
   - **Recent post subjects**:
 - [Blog]()
   - **Recent post subjects**:
+
+..................................................
+
+3. [NAME]() - JSON-LD Schema markup: `"@type":"WebPage"`
+
+**Keywords**:
+
+-
+
+- [LinkedIn]()
+  - **Recent post subjects**:
+- [Facebook]()
+  - **Recent post subjects**:
+- [Twitter]()
+  - **Recent post subjects**:
+- [Instagram]()
+  - **Recent post subjects**:
+- [TikTok]()
+  - **Recent post subjects**:
+- [Blog]()
+  - **Recent post subjects**:
+
+..................................................
 
 ## expertise.com design link
 

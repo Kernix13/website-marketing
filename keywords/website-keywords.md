@@ -33,16 +33,65 @@
 | :------ | :------ | :------ | :------ |
 |         |         |         |         |
 
-## Web Design
+## Web Design & Development Websites
 
 .................... **PHILLY only from here down** ...................
 
-1. [name]() - Schema markup
+1. [The 215 Guys](https://www.the215guys.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-- [Blog]()
-  - **Recent post subjects**:
+- [Instagram](https://www.instagram.com/the215guys/)
+  - **Recent post subjects**: posts about clients
+- [Blog](https://www.the215guys.com/blog/)
+  - **Recent post subjects**: cookies & GDPR | WordPress 6.5 | color theory web design | WordPress errors | yoast | home care websites | UX & SEO | ADA compliance | upwork designers | ADA Guide | spam updates
 
-2. [Moburst](https://www.moburst.com/) - Schema markup
+..................................
+
+2. [Philly Web Team](https://www.phillywebteam.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
+
+- [Blog](https://www.phillywebteam.com/blog/)
+  - **Recent post subjects**: WordPress vs Wix vs Squarespace | RWD | Web Dev | next posts from 2022 then 2020
+
+..................................
+
+3. [Spacious](https://spaciousphilly.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
+
+- [LinkedIn](https://www.linkedin.com/in/chrisesh/recent-activity/all/)
+  - **Recent post subjects**: web support & maint. | client site | healthcare website | for non-profit site posts
+- [Blog](https://spaciousphilly.com/blog/)
+  - **Recent post subjects**: bad google reviews | website accessibility | a few nonprofit posts | writing quality content | domain names
+
+..................................
+
+4. [Sagapixel](https://sagapixel.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
+
+- [Blog](https://sagapixel.com/blog/)
+  - **Recent post subjects**: SEO vs social media | web redsign traffic drop | rank higher on google maps | law firms web design | google ads converting issues | multiple google business profiles
+
+..................................
+
+5. [SoftCircles](https://softcircles.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
+
+- [Twitter](https://twitter.com/softcircles)
+  - **Recent post subjects**: apps | node.js testing frameworks | site redesign
+- [Facebook](https://www.facebook.com/SoftCircles/)
+  - **Recent post subjects**: AI in software dev | location based apps | software dev | flutter & chatgpt | software devs | native vs cross-platform app
+- [Blog](https://softcircles.com/blog)
+  - **Recent post subjects**: IOT apps | data science & web dev | PHP web dev | flutter & chatgpt | ruby on rails | web design | mobile app optimization | webflow vs shopify
+
+..................................
+
+6. [Strategic Connection](https://strategicconnection.net/index) - JSON-LD Schema markup: `"@type":"WebPage"`
+
+- [LinkedIn](https://www.linkedin.com/company/strategic-connect/posts/?feedView=all)
+  - **Recent post subjects**: social media images | small business expo | digital marketing | Small Business Expo | seo mistakes | social media mgmt | video marketing
+- [Facebook](https://www.facebook.com/strategicconnection)
+  - **Recent post subjects**: same as linkedin
+- [Blog](https://strategicconnection.net/blog)
+  - **Recent post subjects**: seo tips | Vertix AI | gpt agents | viral graphics | google ads | digital branding | ai chatbots | ad campaigns with AI | shopify
+
+..................................
+
+<!-- 7. []() - JSON-LD Schema markup: `"@type":"WebPage"`
 
 - [LinkedIn]()
   - **Recent post subjects**:
@@ -53,22 +102,7 @@
 - [Instagram]()
   - **Recent post subjects**:
 - [Blog]()
-  - **Recent post subjects**:
-
-3. []()
-
-- [LinkedIn]()
-  - **Recent post subjects**:
-- [Twitter]()
-  - **Recent post subjects**:
-- [Facebook]()
-  - **Recent post subjects**:
-- [Instagram]()
-  - **Recent post subjects**:
-- [Blog]()
-  - **Recent post subjects**:
-
-.................... **PHILLY only from here down** ...................
+  - **Recent post subjects**: -->
 
 ## My researched WordPress competitors
 
@@ -257,58 +291,3 @@
   - **Recent post subjects**:
 
 ..................................................
-
-13. []() - JSON-LD Schema markup: `"@type":"WebPage"`
-
-**Keywords**:
-
--
-
-- [LinkedIn]()
-  - **Recent post subjects**:
-- [Facebook]()
-  - **Recent post subjects**:
-- [Twitter]()
-  - **Recent post subjects**:
-- [Instagram]()
-  - **Recent post subjects**:
-- [TikTok]()
-  - **Recent post subjects**:
-- [Blog]()
-  - **Recent post subjects**:
-
-..................................................
-
-## Web Development
-
-.................... **PHILLY only from here down** ...................
-
-1. [NAME]() - JSON-LD Schema markup: `"@type":"WebPage"`
-
-- [LinkedIn]()
-  - **Recent post subjects**:
-- [Facebook]()
-  - **Recent post subjects**:
-- [Twitter]()
-  - **Recent post subjects**:
-- [TikTok]()
-  - **Recent post subjects**:
-- [Blog]()
-  - **Recent post subjects**:
-
-..................................
-
-2. [NAME]() - JSON-LD Schema markup: `"@type":"WebPage"`
-
-- [LinkedIn]()
-  - **Recent post subjects**:
-- [Facebook]()
-  - **Recent post subjects**:
-- [Twitter]()
-  - **Recent post subjects**:
-- [TikTok]()
-  - **Recent post subjects**:
-- [Blog]()
-  - **Recent post subjects**:
-
-..................................

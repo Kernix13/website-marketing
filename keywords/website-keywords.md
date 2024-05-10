@@ -102,7 +102,9 @@
 - [Instagram]()
   - **Recent post subjects**:
 - [Blog]()
-  - **Recent post subjects**: -->
+  - **Recent post subjects**:
+
+.................................. -->
 
 ## My researched WordPress competitors
 
@@ -136,86 +138,45 @@
 
 3. [Franklin Digital](https://www.franklindigital.co/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-**Keywords**:
-
--
-
 - [Blog](https://www.franklindigital.co/resources/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: latest post from 2022
 
 ..................................................
 
-4. [Vance Bell](https://vancebell.com/) - No Schema markup
+4. [Vance Bell](https://vancebell.com/) - No Schema markup - Pixel Engine?
 
-**Keywords**:
-
--
-
-- [LinkedIn](https://www.linkedin.com/in/vancebell/)
-  - **Recent post subjects**:
-- [Facebook](https://www.facebook.com/pixelenginenet)
-  - **Recent post subjects**:
 - [Twitter](https://twitter.com/vancebell)
-  - **Recent post subjects**:
-- [Instagram](https://www.instagram.com/pixelenginenet/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: latest post from Sept 2023
 - [Blog](https://vancebell.com/blog/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: latest post from July 2023
 
 ..................................................
 
 5. [YIKES Inc](https://www.yikesinc.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-**Keywords**:
-
--
-
-- [LinkedIn](https://www.linkedin.com/company/yikesinc/) - there site link is bad
-  - **Recent post subjects**:
-- [Facebook](https://www.facebook.com/yikesinc)
-  - **Recent post subjects**:
-- [Twitter](https://twitter.com/yikesinc)
-  - **Recent post subjects**:
-- [Instagram](https://www.instagram.com/yikesinc/)
-  - **Recent post subjects**:
 - [Blog](https://www.yikesinc.com/blog/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: PHP 8 update | selected as WordPress partner | their plugins acquired by EH dev shop | WordCamp EU
 
 ..................................................
 
 6. [Pixel Engine](https://pixelengine.net/) - No Schema markup
 
-**Keywords**:
-
-- - **Recent post subjects**:
-
-- [Facebook](https://www.facebook.com/pixelenginenet/)
-  - **Recent post subjects**:
-- [Twitter](https://twitter.com/PixelEngineNet)
-  - **Recent post subjects**:
-- [Instagram](https://www.instagram.com/pixelenginenet/)
-  - **Recent post subjects**:
-- [Blog](https://pixelengine.net/blog/)
-  - **Recent post subjects**:
+- no valuable social media or blogs
 
 ..................................................
 
 7. [Media Components](https://mediacomponents.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-**Keywords**:
-
--
-
 - [LinkedIn](https://www.linkedin.com/company/media-components-llc/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: updates in social media | micro-influencers | short form video platforms | other seo and related posts
 - [Facebook](https://www.facebook.com/MediaComponents/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: posts on social media | seo posts | static vs dynamic websites | seo | social media updates
 - [Twitter](https://twitter.com/mediacomponents)
-  - **Recent post subjects**:
+  - **Recent post subjects**: similar to above
 - [Instagram](https://www.instagram.com/mediacomponents/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: similar to above
 - [Blog](https://mediacomponents.com/blog/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: short form video | pipeline map | online reputation mgmt | Google’s Search Generative Experience (SGE) | social media trends | TikTok SEO | digital marketing
 
 ..................................................
 
@@ -223,71 +184,50 @@
 
 **Keywords**: they have a YouTube channel
 
--
-
 - [LinkedIn](https://www.linkedin.com/company/wbcom-designs/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: WooCommerce with BuddyPress | Reviews feature in Woo Sell Services | Who Viewed My Profile Plugin | BuddyVendor | BuddyPress reCaptcha
 - [Facebook](https://www.facebook.com/wbcomdesignscommunity/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: same as LinkedIn
 - [Twitter](https://twitter.com/wbcomdesigns)
-  - **Recent post subjects**:
+  - **Recent post subjects**: same as LinkedIn
 - [Instagram](https://www.instagram.com/wbcomdesigns/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: same as LinkedIn
 - [Blog](https://wbcomdesigns.com/blog-updates/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: AI digital marketing assistants | web animations | WordPress draft posts | marketing strategies | webp vs png vs jpeg | software product dev | google shopping ads
 
 ..................................................
 
 9. [TDM Marketing](https://www.tdm-marketing.com/) - No Schema markup
 
-**Keywords**:
-
--
-
-- [Facebook](https://www.facebook.com/thedeterminedmom)
-  - **Recent post subjects**:
-- [Blog](https://www.tdm-marketing.com/blog/google-my-business/)
-  - **Recent post subjects**:
+- no valuable social media or blogs
 
 ..................................................
 
 10. [Cavallo Agency](https://www.cavalloagency.com/wordpress/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-**Keywords**:
-
--
-
 - [Blog](https://www.cavalloagency.com/blog/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: seo kpis | local vs national seo | wholesale apps for shopify
 
 ..................................................
 
 11. [Freshy Sites](https://freshysites.com/philadelphia/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-**Keywords**:
-
--
-
 - [Facebook](https://www.facebook.com/FreshySitesPhiladelphia/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: ecommerce website redesign | client site launchings
 - [Blog](https://freshysites.com/blog/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: WordPress dev | WordPress plugins | WordPress themes | web design agency | and some wierd blog posts?!?
 
 ..................................................
 
 12. [Boomtown Internet Group, Inc](https://www.boomtownig.com/) - JSON-LD Schema markup: `"@type":"WebPage"`
 
-**Keywords**: YouTube as well
-
--
-
 - [LinkedIn](https://www.linkedin.com/company/boomtown-internet-group/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: WordPress web design services | video content | canonical tags and 301 redirects | web design trends | mobile marketing | SEO | WordPress security
 - [Facebook](https://www.facebook.com/boomtownig/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: same as LinkedIn
 - [Twitter](https://twitter.com/boomtownig)
-  - **Recent post subjects**:
+  - **Recent post subjects**: AI & SEO | clutch award | bing places business listing | google changes | website footers | web design elements
 - [Blog](https://www.boomtownig.com/dmtrends/)
-  - **Recent post subjects**:
+  - **Recent post subjects**: organic vs paid social media | e-commerce conversions | WordPress web design services | canonical tags | AI & SEO | browser cache | cluth award | bing listing | optimize ecommerce pages
 
 ..................................................

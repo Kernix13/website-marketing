@@ -33,21 +33,28 @@ The process of discovering and analyzing the words and phrases people type into 
 
 ### How to find the best keywords
 
-1. **Google Keyword Planner**: keyword research tool - identify relevant keywords, their search volume, and competition
+1. [Google Keyword Planner](https://business.google.com/us/ad-tools/keyword-planner/): keyword research tool - identify relevant keywords, their search volume, and competition
    1. Start by entering a broad keyword related to your industry or niche
-2. **SEMRush**: Offers comprehensive keyword data and competitor analysis.
-3. **Moz**: Provides a wide range of SEO tools, including keyword research.
-4. **Ubersuggest**: Offers keyword ideas, content ideas, and backlink data.
-5. **KWFinder**: Focuses on long-tail keywords and localized keyword research.
-6. **Similar Web**: Helps you understand your competitor’s keyword strategy by showing what keywords are driving traffic to their websites
-7. Google _People also ask_ and _Related searches_ sections
+2. [SEMRush](https://www.semrush.com/): Offers comprehensive keyword data and competitor analysis - a number of different free tools
+3. [Moz Free SEO Tools](https://moz.com/free-seo-tools): Provides a wide range of SEO tools, including keyword research.
+4. [Ubersuggest](https://neilpatel.com/ubersuggest/): Offers keyword ideas, content ideas, and backlink data.
+5. [KWFinder](https://mangools.com/kwfinder/): Focuses on long-tail keywords and localized keyword research.
+6. [Similar Web](https://www.similarweb.com/): Helps you understand your competitor’s keyword strategy by showing what keywords are driving traffic to their websites - also a browser extension
+7. [AlsoAsked.com](https://alsoasked.com/): tool for both keyword research and content writing. By mapping real search queries, it reveals user intent and makes content planning easier
 8. Autosuggest anywhere
 9. Analyzing your competitors: Tools like SEMRush and Moz can help you see which keywords are driving traffic to their websites
 10. Search volume and trends: High search volume keywords are often more competitive, but they can also bring more traffic. On the other hand, low search volume keywords are less competitive and can be a goldmine for niche markets - seasonal vs evergreen
-    1. **Google Trends**: for gauging the seasonality of keywords - lets you explore related keywords, geographic data, and trending searches
-    2. **AnswerThePublic**: generates content ideas based on questions people ask online
-11. **Semrush SEO Writing Assistant plugin**: Recommendations on relevant keywords to use in your content for better Google rankings
-12. **ChatGPT**
+    1. [Google Trends](https://trends.google.com/trends/): for gauging the seasonality of keywords - lets you explore related keywords, geographic data, and trending searches
+    2. [AnswerThePublic](https://answerthepublic.com/): generates content ideas based on questions people ask online
+11. **Semrush SEO Writing Assistant plugin**: Recommendations on relevant keywords to use in your content for better Google rankings - not sure if there is a plugin but check the website [SEO Writing Assistant](https://www.semrush.com/swa/)
+12. [ChatGPT](https://chatgpt.com/):
+13. [Keyword Sheeter](https://keywordsheeter.com/): Free Keyword Research Tool
+14. [Infinite Suggest](https://www.infinitesuggest.com/): Google keyword suggestions
+15. [Wordtracker Search Tool](https://www.wordtracker.com/search): keyword research tool
+16. [Hoth Keyword Planner](https://www.thehoth.com/google-keyword-planner/): Google Keyword Planner Tool
+17. [SearchVolume by SEO.ai](https://searchvolume.io/): Free Keyword Search Volume Tool
+18. [keywordtool.io](https://keywordtool.io/): Great Keywords Using Google Autocomplete
+19. [Backlinko 41 Best SEO Tools (Free & Paid)](https://backlinko.com/best-free-seo-tools): later...
 
 ### User-intent and content strategy
 
